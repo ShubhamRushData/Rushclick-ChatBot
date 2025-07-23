@@ -1,0 +1,4002 @@
+[
+  {
+    "question": "how to activate product",
+    "answer": "Go to settings, enter your activation code, and click Activate."
+  },
+  {
+    "question": "what is refund policy",
+    "answer": "Refunds are processed within 7 working days to your original payment method."
+  },
+  {
+    "question": "how to contact support",
+    "answer": "You can email support@example.com or call +91-1234567890."
+  },
+  {
+    "question": "how to reset password",
+    "answer": "Click on 'Forgot Password' on the login page and follow the instructions."
+  },
+  {
+    "question": "do you offer free shipping",
+    "answer": "Yes, we offer free shipping on orders above \u20b9999."
+  },
+  {
+    "question": "how to cancel my order",
+    "answer": "Orders can be cancelled within 24 hours of purchase from your account page."
+  },
+  {
+    "question": "how to track my order",
+    "answer": "Track your order using the tracking ID sent to your email."
+  },
+  {
+    "question": "how long is warranty",
+    "answer": "Warranty lasts for 1 year from the purchase date."
+  },
+  {
+    "question": "what payment methods are accepted",
+    "answer": "We accept UPI, credit/debit cards, and wallets."
+  },
+  {
+    "question": "is there 24x7 support",
+    "answer": "Yes, we have 24x7 customer support via email and phone."
+  },
+  {
+    "question": "hi",
+    "answer": "Hello! How can I help you today?"
+  },
+  {
+    "question": "hello",
+    "answer": "Hi there! Need any assistance?"
+  },
+  {
+    "question": "thanks",
+    "answer": "You're welcome!"
+  },
+  {
+    "question": "bye",
+    "answer": "Goodbye! Have a nice day!"
+  },
+  {
+    "question": "good morning",
+    "answer": "Good morning! How can I assist you?"
+  },
+  {
+    "question": "good night",
+    "answer": "Good night! Take care."
+  },
+  {
+    "question": "help",
+    "answer": "Sure, I\u2019m here to help."
+  },
+  {
+    "question": "support",
+    "answer": "Please contact support@example.com for assistance."
+  },
+  {
+    "question": "how to activate product",
+    "answer": "Go to settings, enter your activation code, and click Activate."
+  },
+  {
+    "question": "what is refund policy",
+    "answer": "Refunds are processed within 7 working days to your original payment method."
+  },
+  {
+    "question": "how to contact support",
+    "answer": "You can email support@example.com or call +91-1234567890."
+  },
+  {
+    "question": "how to reset password",
+    "answer": "Click on 'Forgot Password' on the login page and follow the instructions."
+  },
+  {
+    "question": "do you offer free shipping",
+    "answer": "Yes, we offer free shipping on orders above \u20b9999."
+  },
+  {
+    "question": "how to cancel my order",
+    "answer": "Orders can be cancelled within 24 hours of purchase from your account page."
+  },
+  {
+    "question": "how to track my order",
+    "answer": "Track your order using the tracking ID sent to your email."
+  },
+  {
+    "question": "how long is warranty",
+    "answer": "Warranty lasts for 1 year from the purchase date."
+  },
+  {
+    "question": "what payment methods are accepted",
+    "answer": "We accept UPI, credit/debit cards, and wallets."
+  },
+  {
+    "question": "is there 24x7 support",
+    "answer": "Yes, we have 24x7 customer support via email and phone."
+  },
+  {
+    "question": "hi",
+    "answer": "Hello! How can I help you today?"
+  },
+  {
+    "question": "hello",
+    "answer": "Hi there! Need any assistance?"
+  },
+  {
+    "question": "thanks",
+    "answer": "You're welcome!"
+  },
+  {
+    "question": "bye",
+    "answer": "Goodbye! Have a nice day!"
+  },
+  {
+    "question": "good morning",
+    "answer": "Good morning! How can I assist you?"
+  },
+  {
+    "question": "good night",
+    "answer": "Good night! Take care."
+  },
+  {
+    "question": "help",
+    "answer": "Sure, I\u2019m here to help."
+  },
+  {
+    "question": "support",
+    "answer": "Please contact support@example.com for assistance."
+  },
+  {
+    "question": "how to activate product",
+    "answer": "Go to settings, enter your activation code, and click Activate."
+  },
+  {
+    "question": "what is refund policy",
+    "answer": "Refunds are processed within 7 working days to your original payment method."
+  },
+  {
+    "question": "how to contact support",
+    "answer": "You can email support@example.com or call +91-1234567890."
+  },
+  {
+    "question": "how to reset password",
+    "answer": "Click on 'Forgot Password' on the login page and follow the instructions."
+  },
+  {
+    "question": "do you offer free shipping",
+    "answer": "Yes, we offer free shipping on orders above \u20b9999."
+  },
+  {
+    "question": "how to cancel my order",
+    "answer": "Orders can be cancelled within 24 hours of purchase from your account page."
+  },
+  {
+    "question": "how to track my order",
+    "answer": "Track your order using the tracking ID sent to your email."
+  },
+  {
+    "question": "how long is warranty",
+    "answer": "Warranty lasts for 1 year from the purchase date."
+  },
+  {
+    "question": "what payment methods are accepted",
+    "answer": "We accept UPI, credit/debit cards, and wallets."
+  },
+  {
+    "question": "is there 24x7 support",
+    "answer": "Yes, we have 24x7 customer support via email and phone."
+  },
+  {
+    "question": "hi",
+    "answer": "Hello! How can I help you today?"
+  },
+  {
+    "question": "hello",
+    "answer": "Hi there! Need any assistance?"
+  },
+  {
+    "question": "thanks",
+    "answer": "You're welcome!"
+  },
+  {
+    "question": "bye",
+    "answer": "Goodbye! Have a nice day!"
+  },
+  {
+    "question": "good morning",
+    "answer": "Good morning! How can I assist you?"
+  },
+  {
+    "question": "good night",
+    "answer": "Good night! Take care."
+  },
+  {
+    "question": "help",
+    "answer": "Sure, I\u2019m here to help."
+  },
+  {
+    "question": "support",
+    "answer": "Please contact support@example.com for assistance."
+  },
+  {
+    "question": "how to activate product",
+    "answer": "Go to settings, enter your activation code, and click Activate."
+  },
+  {
+    "question": "what is refund policy",
+    "answer": "Refunds are processed within 7 working days to your original payment method."
+  },
+  {
+    "question": "how to contact support",
+    "answer": "You can email support@example.com or call +91-1234567890."
+  },
+  {
+    "question": "how to reset password",
+    "answer": "Click on 'Forgot Password' on the login page and follow the instructions."
+  },
+  {
+    "question": "do you offer free shipping",
+    "answer": "Yes, we offer free shipping on orders above \u20b9999."
+  },
+  {
+    "question": "how to cancel my order",
+    "answer": "Orders can be cancelled within 24 hours of purchase from your account page."
+  },
+  {
+    "question": "how to track my order",
+    "answer": "Track your order using the tracking ID sent to your email."
+  },
+  {
+    "question": "how long is warranty",
+    "answer": "Warranty lasts for 1 year from the purchase date."
+  },
+  {
+    "question": "what payment methods are accepted",
+    "answer": "We accept UPI, credit/debit cards, and wallets."
+  },
+  {
+    "question": "is there 24x7 support",
+    "answer": "Yes, we have 24x7 customer support via email and phone."
+  },
+  {
+    "question": "hi",
+    "answer": "Hello! How can I help you today?"
+  },
+  {
+    "question": "hello",
+    "answer": "Hi there! Need any assistance?"
+  },
+  {
+    "question": "thanks",
+    "answer": "You're welcome!"
+  },
+  {
+    "question": "bye",
+    "answer": "Goodbye! Have a nice day!"
+  },
+  {
+    "question": "good morning",
+    "answer": "Good morning! How can I assist you?"
+  },
+  {
+    "question": "good night",
+    "answer": "Good night! Take care."
+  },
+  {
+    "question": "help",
+    "answer": "Sure, I\u2019m here to help."
+  },
+  {
+    "question": "support",
+    "answer": "Please contact support@example.com for assistance."
+  },
+  {
+    "question": "how to activate product",
+    "answer": "Go to settings, enter your activation code, and click Activate."
+  },
+  {
+    "question": "what is refund policy",
+    "answer": "Refunds are processed within 7 working days to your original payment method."
+  },
+  {
+    "question": "how to contact support",
+    "answer": "You can email support@example.com or call +91-1234567890."
+  },
+  {
+    "question": "how to reset password",
+    "answer": "Click on 'Forgot Password' on the login page and follow the instructions."
+  },
+  {
+    "question": "do you offer free shipping",
+    "answer": "Yes, we offer free shipping on orders above \u20b9999."
+  },
+  {
+    "question": "how to cancel my order",
+    "answer": "Orders can be cancelled within 24 hours of purchase from your account page."
+  },
+  {
+    "question": "how to track my order",
+    "answer": "Track your order using the tracking ID sent to your email."
+  },
+  {
+    "question": "how long is warranty",
+    "answer": "Warranty lasts for 1 year from the purchase date."
+  },
+  {
+    "question": "what payment methods are accepted",
+    "answer": "We accept UPI, credit/debit cards, and wallets."
+  },
+  {
+    "question": "is there 24x7 support",
+    "answer": "Yes, we have 24x7 customer support via email and phone."
+  },
+  {
+    "question": "hi",
+    "answer": "Hello! How can I help you today?"
+  },
+  {
+    "question": "hello",
+    "answer": "Hi there! Need any assistance?"
+  },
+  {
+    "question": "thanks",
+    "answer": "You're welcome!"
+  },
+  {
+    "question": "bye",
+    "answer": "Goodbye! Have a nice day!"
+  },
+  {
+    "question": "good morning",
+    "answer": "Good morning! How can I assist you?"
+  },
+  {
+    "question": "good night",
+    "answer": "Good night! Take care."
+  },
+  {
+    "question": "help",
+    "answer": "Sure, I\u2019m here to help."
+  },
+  {
+    "question": "support",
+    "answer": "Please contact support@example.com for assistance."
+  },
+  {
+    "question": "how to activate product",
+    "answer": "Go to settings, enter your activation code, and click Activate."
+  },
+  {
+    "question": "what is refund policy",
+    "answer": "Refunds are processed within 7 working days to your original payment method."
+  },
+  {
+    "question": "how to contact support",
+    "answer": "You can email support@example.com or call +91-1234567890."
+  },
+  {
+    "question": "how to reset password",
+    "answer": "Click on 'Forgot Password' on the login page and follow the instructions."
+  },
+  {
+    "question": "do you offer free shipping",
+    "answer": "Yes, we offer free shipping on orders above \u20b9999."
+  },
+  {
+    "question": "how to cancel my order",
+    "answer": "Orders can be cancelled within 24 hours of purchase from your account page."
+  },
+  {
+    "question": "how to track my order",
+    "answer": "Track your order using the tracking ID sent to your email."
+  },
+  {
+    "question": "how long is warranty",
+    "answer": "Warranty lasts for 1 year from the purchase date."
+  },
+  {
+    "question": "what payment methods are accepted",
+    "answer": "We accept UPI, credit/debit cards, and wallets."
+  },
+  {
+    "question": "is there 24x7 support",
+    "answer": "Yes, we have 24x7 customer support via email and phone."
+  },
+  {
+    "question": "hi",
+    "answer": "Hello! How can I help you today?"
+  },
+  {
+    "question": "hello",
+    "answer": "Hi there! Need any assistance?"
+  },
+  {
+    "question": "thanks",
+    "answer": "You're welcome!"
+  },
+  {
+    "question": "bye",
+    "answer": "Goodbye! Have a nice day!"
+  },
+  {
+    "question": "good morning",
+    "answer": "Good morning! How can I assist you?"
+  },
+  {
+    "question": "good night",
+    "answer": "Good night! Take care."
+  },
+  {
+    "question": "help",
+    "answer": "Sure, I\u2019m here to help."
+  },
+  {
+    "question": "support",
+    "answer": "Please contact support@example.com for assistance."
+  },
+  {
+    "question": "how to activate product",
+    "answer": "Go to settings, enter your activation code, and click Activate."
+  },
+  {
+    "question": "what is refund policy",
+    "answer": "Refunds are processed within 7 working days to your original payment method."
+  },
+  {
+    "question": "how to contact support",
+    "answer": "You can email support@example.com or call +91-1234567890."
+  },
+  {
+    "question": "how to reset password",
+    "answer": "Click on 'Forgot Password' on the login page and follow the instructions."
+  },
+  {
+    "question": "do you offer free shipping",
+    "answer": "Yes, we offer free shipping on orders above \u20b9999."
+  },
+  {
+    "question": "how to cancel my order",
+    "answer": "Orders can be cancelled within 24 hours of purchase from your account page."
+  },
+  {
+    "question": "how to track my order",
+    "answer": "Track your order using the tracking ID sent to your email."
+  },
+  {
+    "question": "how long is warranty",
+    "answer": "Warranty lasts for 1 year from the purchase date."
+  },
+  {
+    "question": "what payment methods are accepted",
+    "answer": "We accept UPI, credit/debit cards, and wallets."
+  },
+  {
+    "question": "is there 24x7 support",
+    "answer": "Yes, we have 24x7 customer support via email and phone."
+  },
+  {
+    "question": "hi",
+    "answer": "Hello! How can I help you today?"
+  },
+  {
+    "question": "hello",
+    "answer": "Hi there! Need any assistance?"
+  },
+  {
+    "question": "thanks",
+    "answer": "You're welcome!"
+  },
+  {
+    "question": "bye",
+    "answer": "Goodbye! Have a nice day!"
+  },
+  {
+    "question": "good morning",
+    "answer": "Good morning! How can I assist you?"
+  },
+  {
+    "question": "good night",
+    "answer": "Good night! Take care."
+  },
+  {
+    "question": "help",
+    "answer": "Sure, I\u2019m here to help."
+  },
+  {
+    "question": "support",
+    "answer": "Please contact support@example.com for assistance."
+  },
+  {
+    "question": "how to activate product",
+    "answer": "Go to settings, enter your activation code, and click Activate."
+  },
+  {
+    "question": "what is refund policy",
+    "answer": "Refunds are processed within 7 working days to your original payment method."
+  },
+  {
+    "question": "how to contact support",
+    "answer": "You can email support@example.com or call +91-1234567890."
+  },
+  {
+    "question": "how to reset password",
+    "answer": "Click on 'Forgot Password' on the login page and follow the instructions."
+  },
+  {
+    "question": "do you offer free shipping",
+    "answer": "Yes, we offer free shipping on orders above \u20b9999."
+  },
+  {
+    "question": "how to cancel my order",
+    "answer": "Orders can be cancelled within 24 hours of purchase from your account page."
+  },
+  {
+    "question": "how to track my order",
+    "answer": "Track your order using the tracking ID sent to your email."
+  },
+  {
+    "question": "how long is warranty",
+    "answer": "Warranty lasts for 1 year from the purchase date."
+  },
+  {
+    "question": "what payment methods are accepted",
+    "answer": "We accept UPI, credit/debit cards, and wallets."
+  },
+  {
+    "question": "is there 24x7 support",
+    "answer": "Yes, we have 24x7 customer support via email and phone."
+  },
+  {
+    "question": "hi",
+    "answer": "Hello! How can I help you today?"
+  },
+  {
+    "question": "hello",
+    "answer": "Hi there! Need any assistance?"
+  },
+  {
+    "question": "thanks",
+    "answer": "You're welcome!"
+  },
+  {
+    "question": "bye",
+    "answer": "Goodbye! Have a nice day!"
+  },
+  {
+    "question": "good morning",
+    "answer": "Good morning! How can I assist you?"
+  },
+  {
+    "question": "good night",
+    "answer": "Good night! Take care."
+  },
+  {
+    "question": "help",
+    "answer": "Sure, I\u2019m here to help."
+  },
+  {
+    "question": "support",
+    "answer": "Please contact support@example.com for assistance."
+  },
+  {
+    "question": "how to activate product",
+    "answer": "Go to settings, enter your activation code, and click Activate."
+  },
+  {
+    "question": "what is refund policy",
+    "answer": "Refunds are processed within 7 working days to your original payment method."
+  },
+  {
+    "question": "how to contact support",
+    "answer": "You can email support@example.com or call +91-1234567890."
+  },
+  {
+    "question": "how to reset password",
+    "answer": "Click on 'Forgot Password' on the login page and follow the instructions."
+  },
+  {
+    "question": "do you offer free shipping",
+    "answer": "Yes, we offer free shipping on orders above \u20b9999."
+  },
+  {
+    "question": "how to cancel my order",
+    "answer": "Orders can be cancelled within 24 hours of purchase from your account page."
+  },
+  {
+    "question": "how to track my order",
+    "answer": "Track your order using the tracking ID sent to your email."
+  },
+  {
+    "question": "how long is warranty",
+    "answer": "Warranty lasts for 1 year from the purchase date."
+  },
+  {
+    "question": "what payment methods are accepted",
+    "answer": "We accept UPI, credit/debit cards, and wallets."
+  },
+  {
+    "question": "is there 24x7 support",
+    "answer": "Yes, we have 24x7 customer support via email and phone."
+  },
+  {
+    "question": "hi",
+    "answer": "Hello! How can I help you today?"
+  },
+  {
+    "question": "hello",
+    "answer": "Hi there! Need any assistance?"
+  },
+  {
+    "question": "thanks",
+    "answer": "You're welcome!"
+  },
+  {
+    "question": "bye",
+    "answer": "Goodbye! Have a nice day!"
+  },
+  {
+    "question": "good morning",
+    "answer": "Good morning! How can I assist you?"
+  },
+  {
+    "question": "good night",
+    "answer": "Good night! Take care."
+  },
+  {
+    "question": "help",
+    "answer": "Sure, I\u2019m here to help."
+  },
+  {
+    "question": "support",
+    "answer": "Please contact support@example.com for assistance."
+  },
+  {
+    "question": "how to activate product",
+    "answer": "Go to settings, enter your activation code, and click Activate."
+  },
+  {
+    "question": "what is refund policy",
+    "answer": "Refunds are processed within 7 working days to your original payment method."
+  },
+  {
+    "question": "how to contact support",
+    "answer": "You can email support@example.com or call +91-1234567890."
+  },
+  {
+    "question": "how to reset password",
+    "answer": "Click on 'Forgot Password' on the login page and follow the instructions."
+  },
+  {
+    "question": "do you offer free shipping",
+    "answer": "Yes, we offer free shipping on orders above \u20b9999."
+  },
+  {
+    "question": "how to cancel my order",
+    "answer": "Orders can be cancelled within 24 hours of purchase from your account page."
+  },
+  {
+    "question": "how to track my order",
+    "answer": "Track your order using the tracking ID sent to your email."
+  },
+  {
+    "question": "how long is warranty",
+    "answer": "Warranty lasts for 1 year from the purchase date."
+  },
+  {
+    "question": "what payment methods are accepted",
+    "answer": "We accept UPI, credit/debit cards, and wallets."
+  },
+  {
+    "question": "is there 24x7 support",
+    "answer": "Yes, we have 24x7 customer support via email and phone."
+  },
+  {
+    "question": "hi",
+    "answer": "Hello! How can I help you today?"
+  },
+  {
+    "question": "hello",
+    "answer": "Hi there! Need any assistance?"
+  },
+  {
+    "question": "thanks",
+    "answer": "You're welcome!"
+  },
+  {
+    "question": "bye",
+    "answer": "Goodbye! Have a nice day!"
+  },
+  {
+    "question": "good morning",
+    "answer": "Good morning! How can I assist you?"
+  },
+  {
+    "question": "good night",
+    "answer": "Good night! Take care."
+  },
+  {
+    "question": "help",
+    "answer": "Sure, I\u2019m here to help."
+  },
+  {
+    "question": "support",
+    "answer": "Please contact support@example.com for assistance."
+  },
+  {
+    "question": "how to activate product",
+    "answer": "Go to settings, enter your activation code, and click Activate."
+  },
+  {
+    "question": "what is refund policy",
+    "answer": "Refunds are processed within 7 working days to your original payment method."
+  },
+  {
+    "question": "how to contact support",
+    "answer": "You can email support@example.com or call +91-1234567890."
+  },
+  {
+    "question": "how to reset password",
+    "answer": "Click on 'Forgot Password' on the login page and follow the instructions."
+  },
+  {
+    "question": "do you offer free shipping",
+    "answer": "Yes, we offer free shipping on orders above \u20b9999."
+  },
+  {
+    "question": "how to cancel my order",
+    "answer": "Orders can be cancelled within 24 hours of purchase from your account page."
+  },
+  {
+    "question": "how to track my order",
+    "answer": "Track your order using the tracking ID sent to your email."
+  },
+  {
+    "question": "how long is warranty",
+    "answer": "Warranty lasts for 1 year from the purchase date."
+  },
+  {
+    "question": "what payment methods are accepted",
+    "answer": "We accept UPI, credit/debit cards, and wallets."
+  },
+  {
+    "question": "is there 24x7 support",
+    "answer": "Yes, we have 24x7 customer support via email and phone."
+  },
+  {
+    "question": "hi",
+    "answer": "Hello! How can I help you today?"
+  },
+  {
+    "question": "hello",
+    "answer": "Hi there! Need any assistance?"
+  },
+  {
+    "question": "thanks",
+    "answer": "You're welcome!"
+  },
+  {
+    "question": "bye",
+    "answer": "Goodbye! Have a nice day!"
+  },
+  {
+    "question": "good morning",
+    "answer": "Good morning! How can I assist you?"
+  },
+  {
+    "question": "good night",
+    "answer": "Good night! Take care."
+  },
+  {
+    "question": "help",
+    "answer": "Sure, I\u2019m here to help."
+  },
+  {
+    "question": "support",
+    "answer": "Please contact support@example.com for assistance."
+  },
+  {
+    "question": "how to activate product",
+    "answer": "Go to settings, enter your activation code, and click Activate."
+  },
+  {
+    "question": "what is refund policy",
+    "answer": "Refunds are processed within 7 working days to your original payment method."
+  },
+  {
+    "question": "how to contact support",
+    "answer": "You can email support@example.com or call +91-1234567890."
+  },
+  {
+    "question": "how to reset password",
+    "answer": "Click on 'Forgot Password' on the login page and follow the instructions."
+  },
+  {
+    "question": "do you offer free shipping",
+    "answer": "Yes, we offer free shipping on orders above \u20b9999."
+  },
+  {
+    "question": "how to cancel my order",
+    "answer": "Orders can be cancelled within 24 hours of purchase from your account page."
+  },
+  {
+    "question": "how to track my order",
+    "answer": "Track your order using the tracking ID sent to your email."
+  },
+  {
+    "question": "how long is warranty",
+    "answer": "Warranty lasts for 1 year from the purchase date."
+  },
+  {
+    "question": "what payment methods are accepted",
+    "answer": "We accept UPI, credit/debit cards, and wallets."
+  },
+  {
+    "question": "is there 24x7 support",
+    "answer": "Yes, we have 24x7 customer support via email and phone."
+  },
+  {
+    "question": "hi",
+    "answer": "Hello! How can I help you today?"
+  },
+  {
+    "question": "hello",
+    "answer": "Hi there! Need any assistance?"
+  },
+  {
+    "question": "thanks",
+    "answer": "You're welcome!"
+  },
+  {
+    "question": "bye",
+    "answer": "Goodbye! Have a nice day!"
+  },
+  {
+    "question": "good morning",
+    "answer": "Good morning! How can I assist you?"
+  },
+  {
+    "question": "good night",
+    "answer": "Good night! Take care."
+  },
+  {
+    "question": "help",
+    "answer": "Sure, I\u2019m here to help."
+  },
+  {
+    "question": "support",
+    "answer": "Please contact support@example.com for assistance."
+  },
+  {
+    "question": "how to activate product",
+    "answer": "Go to settings, enter your activation code, and click Activate."
+  },
+  {
+    "question": "what is refund policy",
+    "answer": "Refunds are processed within 7 working days to your original payment method."
+  },
+  {
+    "question": "how to contact support",
+    "answer": "You can email support@example.com or call +91-1234567890."
+  },
+  {
+    "question": "how to reset password",
+    "answer": "Click on 'Forgot Password' on the login page and follow the instructions."
+  },
+  {
+    "question": "do you offer free shipping",
+    "answer": "Yes, we offer free shipping on orders above \u20b9999."
+  },
+  {
+    "question": "how to cancel my order",
+    "answer": "Orders can be cancelled within 24 hours of purchase from your account page."
+  },
+  {
+    "question": "how to track my order",
+    "answer": "Track your order using the tracking ID sent to your email."
+  },
+  {
+    "question": "how long is warranty",
+    "answer": "Warranty lasts for 1 year from the purchase date."
+  },
+  {
+    "question": "what payment methods are accepted",
+    "answer": "We accept UPI, credit/debit cards, and wallets."
+  },
+  {
+    "question": "is there 24x7 support",
+    "answer": "Yes, we have 24x7 customer support via email and phone."
+  },
+  {
+    "question": "hi",
+    "answer": "Hello! How can I help you today?"
+  },
+  {
+    "question": "hello",
+    "answer": "Hi there! Need any assistance?"
+  },
+  {
+    "question": "thanks",
+    "answer": "You're welcome!"
+  },
+  {
+    "question": "bye",
+    "answer": "Goodbye! Have a nice day!"
+  },
+  {
+    "question": "good morning",
+    "answer": "Good morning! How can I assist you?"
+  },
+  {
+    "question": "good night",
+    "answer": "Good night! Take care."
+  },
+  {
+    "question": "help",
+    "answer": "Sure, I\u2019m here to help."
+  },
+  {
+    "question": "support",
+    "answer": "Please contact support@example.com for assistance."
+  },
+  {
+    "question": "how to activate product",
+    "answer": "Go to settings, enter your activation code, and click Activate."
+  },
+  {
+    "question": "what is refund policy",
+    "answer": "Refunds are processed within 7 working days to your original payment method."
+  },
+  {
+    "question": "how to contact support",
+    "answer": "You can email support@example.com or call +91-1234567890."
+  },
+  {
+    "question": "how to reset password",
+    "answer": "Click on 'Forgot Password' on the login page and follow the instructions."
+  },
+  {
+    "question": "do you offer free shipping",
+    "answer": "Yes, we offer free shipping on orders above \u20b9999."
+  },
+  {
+    "question": "how to cancel my order",
+    "answer": "Orders can be cancelled within 24 hours of purchase from your account page."
+  },
+  {
+    "question": "how to track my order",
+    "answer": "Track your order using the tracking ID sent to your email."
+  },
+  {
+    "question": "how long is warranty",
+    "answer": "Warranty lasts for 1 year from the purchase date."
+  },
+  {
+    "question": "what payment methods are accepted",
+    "answer": "We accept UPI, credit/debit cards, and wallets."
+  },
+  {
+    "question": "is there 24x7 support",
+    "answer": "Yes, we have 24x7 customer support via email and phone."
+  },
+  {
+    "question": "hi",
+    "answer": "Hello! How can I help you today?"
+  },
+  {
+    "question": "hello",
+    "answer": "Hi there! Need any assistance?"
+  },
+  {
+    "question": "thanks",
+    "answer": "You're welcome!"
+  },
+  {
+    "question": "bye",
+    "answer": "Goodbye! Have a nice day!"
+  },
+  {
+    "question": "good morning",
+    "answer": "Good morning! How can I assist you?"
+  },
+  {
+    "question": "good night",
+    "answer": "Good night! Take care."
+  },
+  {
+    "question": "help",
+    "answer": "Sure, I\u2019m here to help."
+  },
+  {
+    "question": "support",
+    "answer": "Please contact support@example.com for assistance."
+  },
+  {
+    "question": "how to activate product",
+    "answer": "Go to settings, enter your activation code, and click Activate."
+  },
+  {
+    "question": "what is refund policy",
+    "answer": "Refunds are processed within 7 working days to your original payment method."
+  },
+  {
+    "question": "how to contact support",
+    "answer": "You can email support@example.com or call +91-1234567890."
+  },
+  {
+    "question": "how to reset password",
+    "answer": "Click on 'Forgot Password' on the login page and follow the instructions."
+  },
+  {
+    "question": "do you offer free shipping",
+    "answer": "Yes, we offer free shipping on orders above \u20b9999."
+  },
+  {
+    "question": "how to cancel my order",
+    "answer": "Orders can be cancelled within 24 hours of purchase from your account page."
+  },
+  {
+    "question": "how to track my order",
+    "answer": "Track your order using the tracking ID sent to your email."
+  },
+  {
+    "question": "how long is warranty",
+    "answer": "Warranty lasts for 1 year from the purchase date."
+  },
+  {
+    "question": "what payment methods are accepted",
+    "answer": "We accept UPI, credit/debit cards, and wallets."
+  },
+  {
+    "question": "is there 24x7 support",
+    "answer": "Yes, we have 24x7 customer support via email and phone."
+  },
+  {
+    "question": "hi",
+    "answer": "Hello! How can I help you today?"
+  },
+  {
+    "question": "hello",
+    "answer": "Hi there! Need any assistance?"
+  },
+  {
+    "question": "thanks",
+    "answer": "You're welcome!"
+  },
+  {
+    "question": "bye",
+    "answer": "Goodbye! Have a nice day!"
+  },
+  {
+    "question": "good morning",
+    "answer": "Good morning! How can I assist you?"
+  },
+  {
+    "question": "good night",
+    "answer": "Good night! Take care."
+  },
+  {
+    "question": "help",
+    "answer": "Sure, I\u2019m here to help."
+  },
+  {
+    "question": "support",
+    "answer": "Please contact support@example.com for assistance."
+  },
+  {
+    "question": "how to activate product",
+    "answer": "Go to settings, enter your activation code, and click Activate."
+  },
+  {
+    "question": "what is refund policy",
+    "answer": "Refunds are processed within 7 working days to your original payment method."
+  },
+  {
+    "question": "how to contact support",
+    "answer": "You can email support@example.com or call +91-1234567890."
+  },
+  {
+    "question": "how to reset password",
+    "answer": "Click on 'Forgot Password' on the login page and follow the instructions."
+  },
+  {
+    "question": "do you offer free shipping",
+    "answer": "Yes, we offer free shipping on orders above \u20b9999."
+  },
+  {
+    "question": "how to cancel my order",
+    "answer": "Orders can be cancelled within 24 hours of purchase from your account page."
+  },
+  {
+    "question": "how to track my order",
+    "answer": "Track your order using the tracking ID sent to your email."
+  },
+  {
+    "question": "how long is warranty",
+    "answer": "Warranty lasts for 1 year from the purchase date."
+  },
+  {
+    "question": "what payment methods are accepted",
+    "answer": "We accept UPI, credit/debit cards, and wallets."
+  },
+  {
+    "question": "is there 24x7 support",
+    "answer": "Yes, we have 24x7 customer support via email and phone."
+  },
+  {
+    "question": "hi",
+    "answer": "Hello! How can I help you today?"
+  },
+  {
+    "question": "hello",
+    "answer": "Hi there! Need any assistance?"
+  },
+  {
+    "question": "thanks",
+    "answer": "You're welcome!"
+  },
+  {
+    "question": "bye",
+    "answer": "Goodbye! Have a nice day!"
+  },
+  {
+    "question": "good morning",
+    "answer": "Good morning! How can I assist you?"
+  },
+  {
+    "question": "good night",
+    "answer": "Good night! Take care."
+  },
+  {
+    "question": "help",
+    "answer": "Sure, I\u2019m here to help."
+  },
+  {
+    "question": "support",
+    "answer": "Please contact support@example.com for assistance."
+  },
+  {
+    "question": "how to activate product",
+    "answer": "Go to settings, enter your activation code, and click Activate."
+  },
+  {
+    "question": "what is refund policy",
+    "answer": "Refunds are processed within 7 working days to your original payment method."
+  },
+  {
+    "question": "how to contact support",
+    "answer": "You can email support@example.com or call +91-1234567890."
+  },
+  {
+    "question": "how to reset password",
+    "answer": "Click on 'Forgot Password' on the login page and follow the instructions."
+  },
+  {
+    "question": "do you offer free shipping",
+    "answer": "Yes, we offer free shipping on orders above \u20b9999."
+  },
+  {
+    "question": "how to cancel my order",
+    "answer": "Orders can be cancelled within 24 hours of purchase from your account page."
+  },
+  {
+    "question": "how to track my order",
+    "answer": "Track your order using the tracking ID sent to your email."
+  },
+  {
+    "question": "how long is warranty",
+    "answer": "Warranty lasts for 1 year from the purchase date."
+  },
+  {
+    "question": "what payment methods are accepted",
+    "answer": "We accept UPI, credit/debit cards, and wallets."
+  },
+  {
+    "question": "is there 24x7 support",
+    "answer": "Yes, we have 24x7 customer support via email and phone."
+  },
+  {
+    "question": "hi",
+    "answer": "Hello! How can I help you today?"
+  },
+  {
+    "question": "hello",
+    "answer": "Hi there! Need any assistance?"
+  },
+  {
+    "question": "thanks",
+    "answer": "You're welcome!"
+  },
+  {
+    "question": "bye",
+    "answer": "Goodbye! Have a nice day!"
+  },
+  {
+    "question": "good morning",
+    "answer": "Good morning! How can I assist you?"
+  },
+  {
+    "question": "good night",
+    "answer": "Good night! Take care."
+  },
+  {
+    "question": "help",
+    "answer": "Sure, I\u2019m here to help."
+  },
+  {
+    "question": "support",
+    "answer": "Please contact support@example.com for assistance."
+  },
+  {
+    "question": "how to activate product",
+    "answer": "Go to settings, enter your activation code, and click Activate."
+  },
+  {
+    "question": "what is refund policy",
+    "answer": "Refunds are processed within 7 working days to your original payment method."
+  },
+  {
+    "question": "how to contact support",
+    "answer": "You can email support@example.com or call +91-1234567890."
+  },
+  {
+    "question": "how to reset password",
+    "answer": "Click on 'Forgot Password' on the login page and follow the instructions."
+  },
+  {
+    "question": "do you offer free shipping",
+    "answer": "Yes, we offer free shipping on orders above \u20b9999."
+  },
+  {
+    "question": "how to cancel my order",
+    "answer": "Orders can be cancelled within 24 hours of purchase from your account page."
+  },
+  {
+    "question": "how to track my order",
+    "answer": "Track your order using the tracking ID sent to your email."
+  },
+  {
+    "question": "how long is warranty",
+    "answer": "Warranty lasts for 1 year from the purchase date."
+  },
+  {
+    "question": "what payment methods are accepted",
+    "answer": "We accept UPI, credit/debit cards, and wallets."
+  },
+  {
+    "question": "is there 24x7 support",
+    "answer": "Yes, we have 24x7 customer support via email and phone."
+  },
+  {
+    "question": "hi",
+    "answer": "Hello! How can I help you today?"
+  },
+  {
+    "question": "hello",
+    "answer": "Hi there! Need any assistance?"
+  },
+  {
+    "question": "thanks",
+    "answer": "You're welcome!"
+  },
+  {
+    "question": "bye",
+    "answer": "Goodbye! Have a nice day!"
+  },
+  {
+    "question": "good morning",
+    "answer": "Good morning! How can I assist you?"
+  },
+  {
+    "question": "good night",
+    "answer": "Good night! Take care."
+  },
+  {
+    "question": "help",
+    "answer": "Sure, I\u2019m here to help."
+  },
+  {
+    "question": "support",
+    "answer": "Please contact support@example.com for assistance."
+  },
+  {
+    "question": "how to activate product",
+    "answer": "Go to settings, enter your activation code, and click Activate."
+  },
+  {
+    "question": "what is refund policy",
+    "answer": "Refunds are processed within 7 working days to your original payment method."
+  },
+  {
+    "question": "how to contact support",
+    "answer": "You can email support@example.com or call +91-1234567890."
+  },
+  {
+    "question": "how to reset password",
+    "answer": "Click on 'Forgot Password' on the login page and follow the instructions."
+  },
+  {
+    "question": "do you offer free shipping",
+    "answer": "Yes, we offer free shipping on orders above \u20b9999."
+  },
+  {
+    "question": "how to cancel my order",
+    "answer": "Orders can be cancelled within 24 hours of purchase from your account page."
+  },
+  {
+    "question": "how to track my order",
+    "answer": "Track your order using the tracking ID sent to your email."
+  },
+  {
+    "question": "how long is warranty",
+    "answer": "Warranty lasts for 1 year from the purchase date."
+  },
+  {
+    "question": "what payment methods are accepted",
+    "answer": "We accept UPI, credit/debit cards, and wallets."
+  },
+  {
+    "question": "is there 24x7 support",
+    "answer": "Yes, we have 24x7 customer support via email and phone."
+  },
+  {
+    "question": "hi",
+    "answer": "Hello! How can I help you today?"
+  },
+  {
+    "question": "hello",
+    "answer": "Hi there! Need any assistance?"
+  },
+  {
+    "question": "thanks",
+    "answer": "You're welcome!"
+  },
+  {
+    "question": "bye",
+    "answer": "Goodbye! Have a nice day!"
+  },
+  {
+    "question": "good morning",
+    "answer": "Good morning! How can I assist you?"
+  },
+  {
+    "question": "good night",
+    "answer": "Good night! Take care."
+  },
+  {
+    "question": "help",
+    "answer": "Sure, I\u2019m here to help."
+  },
+  {
+    "question": "support",
+    "answer": "Please contact support@example.com for assistance."
+  },
+  {
+    "question": "how to activate product",
+    "answer": "Go to settings, enter your activation code, and click Activate."
+  },
+  {
+    "question": "what is refund policy",
+    "answer": "Refunds are processed within 7 working days to your original payment method."
+  },
+  {
+    "question": "how to contact support",
+    "answer": "You can email support@example.com or call +91-1234567890."
+  },
+  {
+    "question": "how to reset password",
+    "answer": "Click on 'Forgot Password' on the login page and follow the instructions."
+  },
+  {
+    "question": "do you offer free shipping",
+    "answer": "Yes, we offer free shipping on orders above \u20b9999."
+  },
+  {
+    "question": "how to cancel my order",
+    "answer": "Orders can be cancelled within 24 hours of purchase from your account page."
+  },
+  {
+    "question": "how to track my order",
+    "answer": "Track your order using the tracking ID sent to your email."
+  },
+  {
+    "question": "how long is warranty",
+    "answer": "Warranty lasts for 1 year from the purchase date."
+  },
+  {
+    "question": "what payment methods are accepted",
+    "answer": "We accept UPI, credit/debit cards, and wallets."
+  },
+  {
+    "question": "is there 24x7 support",
+    "answer": "Yes, we have 24x7 customer support via email and phone."
+  },
+  {
+    "question": "hi",
+    "answer": "Hello! How can I help you today?"
+  },
+  {
+    "question": "hello",
+    "answer": "Hi there! Need any assistance?"
+  },
+  {
+    "question": "thanks",
+    "answer": "You're welcome!"
+  },
+  {
+    "question": "bye",
+    "answer": "Goodbye! Have a nice day!"
+  },
+  {
+    "question": "good morning",
+    "answer": "Good morning! How can I assist you?"
+  },
+  {
+    "question": "good night",
+    "answer": "Good night! Take care."
+  },
+  {
+    "question": "help",
+    "answer": "Sure, I\u2019m here to help."
+  },
+  {
+    "question": "support",
+    "answer": "Please contact support@example.com for assistance."
+  },
+  {
+    "question": "how to activate product",
+    "answer": "Go to settings, enter your activation code, and click Activate."
+  },
+  {
+    "question": "what is refund policy",
+    "answer": "Refunds are processed within 7 working days to your original payment method."
+  },
+  {
+    "question": "how to contact support",
+    "answer": "You can email support@example.com or call +91-1234567890."
+  },
+  {
+    "question": "how to reset password",
+    "answer": "Click on 'Forgot Password' on the login page and follow the instructions."
+  },
+  {
+    "question": "do you offer free shipping",
+    "answer": "Yes, we offer free shipping on orders above \u20b9999."
+  },
+  {
+    "question": "how to cancel my order",
+    "answer": "Orders can be cancelled within 24 hours of purchase from your account page."
+  },
+  {
+    "question": "how to track my order",
+    "answer": "Track your order using the tracking ID sent to your email."
+  },
+  {
+    "question": "how long is warranty",
+    "answer": "Warranty lasts for 1 year from the purchase date."
+  },
+  {
+    "question": "what payment methods are accepted",
+    "answer": "We accept UPI, credit/debit cards, and wallets."
+  },
+  {
+    "question": "is there 24x7 support",
+    "answer": "Yes, we have 24x7 customer support via email and phone."
+  },
+  {
+    "question": "hi",
+    "answer": "Hello! How can I help you today?"
+  },
+  {
+    "question": "hello",
+    "answer": "Hi there! Need any assistance?"
+  },
+  {
+    "question": "thanks",
+    "answer": "You're welcome!"
+  },
+  {
+    "question": "bye",
+    "answer": "Goodbye! Have a nice day!"
+  },
+  {
+    "question": "good morning",
+    "answer": "Good morning! How can I assist you?"
+  },
+  {
+    "question": "good night",
+    "answer": "Good night! Take care."
+  },
+  {
+    "question": "help",
+    "answer": "Sure, I\u2019m here to help."
+  },
+  {
+    "question": "support",
+    "answer": "Please contact support@example.com for assistance."
+  },
+  {
+    "question": "how to activate product",
+    "answer": "Go to settings, enter your activation code, and click Activate."
+  },
+  {
+    "question": "what is refund policy",
+    "answer": "Refunds are processed within 7 working days to your original payment method."
+  },
+  {
+    "question": "how to contact support",
+    "answer": "You can email support@example.com or call +91-1234567890."
+  },
+  {
+    "question": "how to reset password",
+    "answer": "Click on 'Forgot Password' on the login page and follow the instructions."
+  },
+  {
+    "question": "do you offer free shipping",
+    "answer": "Yes, we offer free shipping on orders above \u20b9999."
+  },
+  {
+    "question": "how to cancel my order",
+    "answer": "Orders can be cancelled within 24 hours of purchase from your account page."
+  },
+  {
+    "question": "how to track my order",
+    "answer": "Track your order using the tracking ID sent to your email."
+  },
+  {
+    "question": "how long is warranty",
+    "answer": "Warranty lasts for 1 year from the purchase date."
+  },
+  {
+    "question": "what payment methods are accepted",
+    "answer": "We accept UPI, credit/debit cards, and wallets."
+  },
+  {
+    "question": "is there 24x7 support",
+    "answer": "Yes, we have 24x7 customer support via email and phone."
+  },
+  {
+    "question": "hi",
+    "answer": "Hello! How can I help you today?"
+  },
+  {
+    "question": "hello",
+    "answer": "Hi there! Need any assistance?"
+  },
+  {
+    "question": "thanks",
+    "answer": "You're welcome!"
+  },
+  {
+    "question": "bye",
+    "answer": "Goodbye! Have a nice day!"
+  },
+  {
+    "question": "good morning",
+    "answer": "Good morning! How can I assist you?"
+  },
+  {
+    "question": "good night",
+    "answer": "Good night! Take care."
+  },
+  {
+    "question": "help",
+    "answer": "Sure, I\u2019m here to help."
+  },
+  {
+    "question": "support",
+    "answer": "Please contact support@example.com for assistance."
+  },
+  {
+    "question": "how to activate product",
+    "answer": "Go to settings, enter your activation code, and click Activate."
+  },
+  {
+    "question": "what is refund policy",
+    "answer": "Refunds are processed within 7 working days to your original payment method."
+  },
+  {
+    "question": "how to contact support",
+    "answer": "You can email support@example.com or call +91-1234567890."
+  },
+  {
+    "question": "how to reset password",
+    "answer": "Click on 'Forgot Password' on the login page and follow the instructions."
+  },
+  {
+    "question": "do you offer free shipping",
+    "answer": "Yes, we offer free shipping on orders above \u20b9999."
+  },
+  {
+    "question": "how to cancel my order",
+    "answer": "Orders can be cancelled within 24 hours of purchase from your account page."
+  },
+  {
+    "question": "how to track my order",
+    "answer": "Track your order using the tracking ID sent to your email."
+  },
+  {
+    "question": "how long is warranty",
+    "answer": "Warranty lasts for 1 year from the purchase date."
+  },
+  {
+    "question": "what payment methods are accepted",
+    "answer": "We accept UPI, credit/debit cards, and wallets."
+  },
+  {
+    "question": "is there 24x7 support",
+    "answer": "Yes, we have 24x7 customer support via email and phone."
+  },
+  {
+    "question": "hi",
+    "answer": "Hello! How can I help you today?"
+  },
+  {
+    "question": "hello",
+    "answer": "Hi there! Need any assistance?"
+  },
+  {
+    "question": "thanks",
+    "answer": "You're welcome!"
+  },
+  {
+    "question": "bye",
+    "answer": "Goodbye! Have a nice day!"
+  },
+  {
+    "question": "good morning",
+    "answer": "Good morning! How can I assist you?"
+  },
+  {
+    "question": "good night",
+    "answer": "Good night! Take care."
+  },
+  {
+    "question": "help",
+    "answer": "Sure, I\u2019m here to help."
+  },
+  {
+    "question": "support",
+    "answer": "Please contact support@example.com for assistance."
+  },
+  {
+    "question": "how to activate product",
+    "answer": "Go to settings, enter your activation code, and click Activate."
+  },
+  {
+    "question": "what is refund policy",
+    "answer": "Refunds are processed within 7 working days to your original payment method."
+  },
+  {
+    "question": "how to contact support",
+    "answer": "You can email support@example.com or call +91-1234567890."
+  },
+  {
+    "question": "how to reset password",
+    "answer": "Click on 'Forgot Password' on the login page and follow the instructions."
+  },
+  {
+    "question": "do you offer free shipping",
+    "answer": "Yes, we offer free shipping on orders above \u20b9999."
+  },
+  {
+    "question": "how to cancel my order",
+    "answer": "Orders can be cancelled within 24 hours of purchase from your account page."
+  },
+  {
+    "question": "how to track my order",
+    "answer": "Track your order using the tracking ID sent to your email."
+  },
+  {
+    "question": "how long is warranty",
+    "answer": "Warranty lasts for 1 year from the purchase date."
+  },
+  {
+    "question": "what payment methods are accepted",
+    "answer": "We accept UPI, credit/debit cards, and wallets."
+  },
+  {
+    "question": "is there 24x7 support",
+    "answer": "Yes, we have 24x7 customer support via email and phone."
+  },
+  {
+    "question": "hi",
+    "answer": "Hello! How can I help you today?"
+  },
+  {
+    "question": "hello",
+    "answer": "Hi there! Need any assistance?"
+  },
+  {
+    "question": "thanks",
+    "answer": "You're welcome!"
+  },
+  {
+    "question": "bye",
+    "answer": "Goodbye! Have a nice day!"
+  },
+  {
+    "question": "good morning",
+    "answer": "Good morning! How can I assist you?"
+  },
+  {
+    "question": "good night",
+    "answer": "Good night! Take care."
+  },
+  {
+    "question": "help",
+    "answer": "Sure, I\u2019m here to help."
+  },
+  {
+    "question": "support",
+    "answer": "Please contact support@example.com for assistance."
+  },
+  {
+    "question": "how to activate product",
+    "answer": "Go to settings, enter your activation code, and click Activate."
+  },
+  {
+    "question": "what is refund policy",
+    "answer": "Refunds are processed within 7 working days to your original payment method."
+  },
+  {
+    "question": "how to contact support",
+    "answer": "You can email support@example.com or call +91-1234567890."
+  },
+  {
+    "question": "how to reset password",
+    "answer": "Click on 'Forgot Password' on the login page and follow the instructions."
+  },
+  {
+    "question": "do you offer free shipping",
+    "answer": "Yes, we offer free shipping on orders above \u20b9999."
+  },
+  {
+    "question": "how to cancel my order",
+    "answer": "Orders can be cancelled within 24 hours of purchase from your account page."
+  },
+  {
+    "question": "how to track my order",
+    "answer": "Track your order using the tracking ID sent to your email."
+  },
+  {
+    "question": "how long is warranty",
+    "answer": "Warranty lasts for 1 year from the purchase date."
+  },
+  {
+    "question": "what payment methods are accepted",
+    "answer": "We accept UPI, credit/debit cards, and wallets."
+  },
+  {
+    "question": "is there 24x7 support",
+    "answer": "Yes, we have 24x7 customer support via email and phone."
+  },
+  {
+    "question": "hi",
+    "answer": "Hello! How can I help you today?"
+  },
+  {
+    "question": "hello",
+    "answer": "Hi there! Need any assistance?"
+  },
+  {
+    "question": "thanks",
+    "answer": "You're welcome!"
+  },
+  {
+    "question": "bye",
+    "answer": "Goodbye! Have a nice day!"
+  },
+  {
+    "question": "good morning",
+    "answer": "Good morning! How can I assist you?"
+  },
+  {
+    "question": "good night",
+    "answer": "Good night! Take care."
+  },
+  {
+    "question": "help",
+    "answer": "Sure, I\u2019m here to help."
+  },
+  {
+    "question": "support",
+    "answer": "Please contact support@example.com for assistance."
+  },
+  {
+    "question": "how to activate product",
+    "answer": "Go to settings, enter your activation code, and click Activate."
+  },
+  {
+    "question": "what is refund policy",
+    "answer": "Refunds are processed within 7 working days to your original payment method."
+  },
+  {
+    "question": "how to contact support",
+    "answer": "You can email support@example.com or call +91-1234567890."
+  },
+  {
+    "question": "how to reset password",
+    "answer": "Click on 'Forgot Password' on the login page and follow the instructions."
+  },
+  {
+    "question": "do you offer free shipping",
+    "answer": "Yes, we offer free shipping on orders above \u20b9999."
+  },
+  {
+    "question": "how to cancel my order",
+    "answer": "Orders can be cancelled within 24 hours of purchase from your account page."
+  },
+  {
+    "question": "how to track my order",
+    "answer": "Track your order using the tracking ID sent to your email."
+  },
+  {
+    "question": "how long is warranty",
+    "answer": "Warranty lasts for 1 year from the purchase date."
+  },
+  {
+    "question": "what payment methods are accepted",
+    "answer": "We accept UPI, credit/debit cards, and wallets."
+  },
+  {
+    "question": "is there 24x7 support",
+    "answer": "Yes, we have 24x7 customer support via email and phone."
+  },
+  {
+    "question": "hi",
+    "answer": "Hello! How can I help you today?"
+  },
+  {
+    "question": "hello",
+    "answer": "Hi there! Need any assistance?"
+  },
+  {
+    "question": "thanks",
+    "answer": "You're welcome!"
+  },
+  {
+    "question": "bye",
+    "answer": "Goodbye! Have a nice day!"
+  },
+  {
+    "question": "good morning",
+    "answer": "Good morning! How can I assist you?"
+  },
+  {
+    "question": "good night",
+    "answer": "Good night! Take care."
+  },
+  {
+    "question": "help",
+    "answer": "Sure, I\u2019m here to help."
+  },
+  {
+    "question": "support",
+    "answer": "Please contact support@example.com for assistance."
+  },
+  {
+    "question": "how to activate product",
+    "answer": "Go to settings, enter your activation code, and click Activate."
+  },
+  {
+    "question": "what is refund policy",
+    "answer": "Refunds are processed within 7 working days to your original payment method."
+  },
+  {
+    "question": "how to contact support",
+    "answer": "You can email support@example.com or call +91-1234567890."
+  },
+  {
+    "question": "how to reset password",
+    "answer": "Click on 'Forgot Password' on the login page and follow the instructions."
+  },
+  {
+    "question": "do you offer free shipping",
+    "answer": "Yes, we offer free shipping on orders above \u20b9999."
+  },
+  {
+    "question": "how to cancel my order",
+    "answer": "Orders can be cancelled within 24 hours of purchase from your account page."
+  },
+  {
+    "question": "how to track my order",
+    "answer": "Track your order using the tracking ID sent to your email."
+  },
+  {
+    "question": "how long is warranty",
+    "answer": "Warranty lasts for 1 year from the purchase date."
+  },
+  {
+    "question": "what payment methods are accepted",
+    "answer": "We accept UPI, credit/debit cards, and wallets."
+  },
+  {
+    "question": "is there 24x7 support",
+    "answer": "Yes, we have 24x7 customer support via email and phone."
+  },
+  {
+    "question": "hi",
+    "answer": "Hello! How can I help you today?"
+  },
+  {
+    "question": "hello",
+    "answer": "Hi there! Need any assistance?"
+  },
+  {
+    "question": "thanks",
+    "answer": "You're welcome!"
+  },
+  {
+    "question": "bye",
+    "answer": "Goodbye! Have a nice day!"
+  },
+  {
+    "question": "good morning",
+    "answer": "Good morning! How can I assist you?"
+  },
+  {
+    "question": "good night",
+    "answer": "Good night! Take care."
+  },
+  {
+    "question": "help",
+    "answer": "Sure, I\u2019m here to help."
+  },
+  {
+    "question": "support",
+    "answer": "Please contact support@example.com for assistance."
+  },
+  {
+    "question": "how to activate product",
+    "answer": "Go to settings, enter your activation code, and click Activate."
+  },
+  {
+    "question": "what is refund policy",
+    "answer": "Refunds are processed within 7 working days to your original payment method."
+  },
+  {
+    "question": "how to contact support",
+    "answer": "You can email support@example.com or call +91-1234567890."
+  },
+  {
+    "question": "how to reset password",
+    "answer": "Click on 'Forgot Password' on the login page and follow the instructions."
+  },
+  {
+    "question": "do you offer free shipping",
+    "answer": "Yes, we offer free shipping on orders above \u20b9999."
+  },
+  {
+    "question": "how to cancel my order",
+    "answer": "Orders can be cancelled within 24 hours of purchase from your account page."
+  },
+  {
+    "question": "how to track my order",
+    "answer": "Track your order using the tracking ID sent to your email."
+  },
+  {
+    "question": "how long is warranty",
+    "answer": "Warranty lasts for 1 year from the purchase date."
+  },
+  {
+    "question": "what payment methods are accepted",
+    "answer": "We accept UPI, credit/debit cards, and wallets."
+  },
+  {
+    "question": "is there 24x7 support",
+    "answer": "Yes, we have 24x7 customer support via email and phone."
+  },
+  {
+    "question": "hi",
+    "answer": "Hello! How can I help you today?"
+  },
+  {
+    "question": "hello",
+    "answer": "Hi there! Need any assistance?"
+  },
+  {
+    "question": "thanks",
+    "answer": "You're welcome!"
+  },
+  {
+    "question": "bye",
+    "answer": "Goodbye! Have a nice day!"
+  },
+  {
+    "question": "good morning",
+    "answer": "Good morning! How can I assist you?"
+  },
+  {
+    "question": "good night",
+    "answer": "Good night! Take care."
+  },
+  {
+    "question": "help",
+    "answer": "Sure, I\u2019m here to help."
+  },
+  {
+    "question": "support",
+    "answer": "Please contact support@example.com for assistance."
+  },
+  {
+    "question": "how to activate product",
+    "answer": "Go to settings, enter your activation code, and click Activate."
+  },
+  {
+    "question": "what is refund policy",
+    "answer": "Refunds are processed within 7 working days to your original payment method."
+  },
+  {
+    "question": "how to contact support",
+    "answer": "You can email support@example.com or call +91-1234567890."
+  },
+  {
+    "question": "how to reset password",
+    "answer": "Click on 'Forgot Password' on the login page and follow the instructions."
+  },
+  {
+    "question": "do you offer free shipping",
+    "answer": "Yes, we offer free shipping on orders above \u20b9999."
+  },
+  {
+    "question": "how to cancel my order",
+    "answer": "Orders can be cancelled within 24 hours of purchase from your account page."
+  },
+  {
+    "question": "how to track my order",
+    "answer": "Track your order using the tracking ID sent to your email."
+  },
+  {
+    "question": "how long is warranty",
+    "answer": "Warranty lasts for 1 year from the purchase date."
+  },
+  {
+    "question": "what payment methods are accepted",
+    "answer": "We accept UPI, credit/debit cards, and wallets."
+  },
+  {
+    "question": "is there 24x7 support",
+    "answer": "Yes, we have 24x7 customer support via email and phone."
+  },
+  {
+    "question": "hi",
+    "answer": "Hello! How can I help you today?"
+  },
+  {
+    "question": "hello",
+    "answer": "Hi there! Need any assistance?"
+  },
+  {
+    "question": "thanks",
+    "answer": "You're welcome!"
+  },
+  {
+    "question": "bye",
+    "answer": "Goodbye! Have a nice day!"
+  },
+  {
+    "question": "good morning",
+    "answer": "Good morning! How can I assist you?"
+  },
+  {
+    "question": "good night",
+    "answer": "Good night! Take care."
+  },
+  {
+    "question": "help",
+    "answer": "Sure, I\u2019m here to help."
+  },
+  {
+    "question": "support",
+    "answer": "Please contact support@example.com for assistance."
+  },
+  {
+    "question": "how to activate product",
+    "answer": "Go to settings, enter your activation code, and click Activate."
+  },
+  {
+    "question": "what is refund policy",
+    "answer": "Refunds are processed within 7 working days to your original payment method."
+  },
+  {
+    "question": "how to contact support",
+    "answer": "You can email support@example.com or call +91-1234567890."
+  },
+  {
+    "question": "how to reset password",
+    "answer": "Click on 'Forgot Password' on the login page and follow the instructions."
+  },
+  {
+    "question": "do you offer free shipping",
+    "answer": "Yes, we offer free shipping on orders above \u20b9999."
+  },
+  {
+    "question": "how to cancel my order",
+    "answer": "Orders can be cancelled within 24 hours of purchase from your account page."
+  },
+  {
+    "question": "how to track my order",
+    "answer": "Track your order using the tracking ID sent to your email."
+  },
+  {
+    "question": "how long is warranty",
+    "answer": "Warranty lasts for 1 year from the purchase date."
+  },
+  {
+    "question": "what payment methods are accepted",
+    "answer": "We accept UPI, credit/debit cards, and wallets."
+  },
+  {
+    "question": "is there 24x7 support",
+    "answer": "Yes, we have 24x7 customer support via email and phone."
+  },
+  {
+    "question": "hi",
+    "answer": "Hello! How can I help you today?"
+  },
+  {
+    "question": "hello",
+    "answer": "Hi there! Need any assistance?"
+  },
+  {
+    "question": "thanks",
+    "answer": "You're welcome!"
+  },
+  {
+    "question": "bye",
+    "answer": "Goodbye! Have a nice day!"
+  },
+  {
+    "question": "good morning",
+    "answer": "Good morning! How can I assist you?"
+  },
+  {
+    "question": "good night",
+    "answer": "Good night! Take care."
+  },
+  {
+    "question": "help",
+    "answer": "Sure, I\u2019m here to help."
+  },
+  {
+    "question": "support",
+    "answer": "Please contact support@example.com for assistance."
+  },
+  {
+    "question": "how to activate product",
+    "answer": "Go to settings, enter your activation code, and click Activate."
+  },
+  {
+    "question": "what is refund policy",
+    "answer": "Refunds are processed within 7 working days to your original payment method."
+  },
+  {
+    "question": "how to contact support",
+    "answer": "You can email support@example.com or call +91-1234567890."
+  },
+  {
+    "question": "how to reset password",
+    "answer": "Click on 'Forgot Password' on the login page and follow the instructions."
+  },
+  {
+    "question": "do you offer free shipping",
+    "answer": "Yes, we offer free shipping on orders above \u20b9999."
+  },
+  {
+    "question": "how to cancel my order",
+    "answer": "Orders can be cancelled within 24 hours of purchase from your account page."
+  },
+  {
+    "question": "how to track my order",
+    "answer": "Track your order using the tracking ID sent to your email."
+  },
+  {
+    "question": "how long is warranty",
+    "answer": "Warranty lasts for 1 year from the purchase date."
+  },
+  {
+    "question": "what payment methods are accepted",
+    "answer": "We accept UPI, credit/debit cards, and wallets."
+  },
+  {
+    "question": "is there 24x7 support",
+    "answer": "Yes, we have 24x7 customer support via email and phone."
+  },
+  {
+    "question": "hi",
+    "answer": "Hello! How can I help you today?"
+  },
+  {
+    "question": "hello",
+    "answer": "Hi there! Need any assistance?"
+  },
+  {
+    "question": "thanks",
+    "answer": "You're welcome!"
+  },
+  {
+    "question": "bye",
+    "answer": "Goodbye! Have a nice day!"
+  },
+  {
+    "question": "good morning",
+    "answer": "Good morning! How can I assist you?"
+  },
+  {
+    "question": "good night",
+    "answer": "Good night! Take care."
+  },
+  {
+    "question": "help",
+    "answer": "Sure, I\u2019m here to help."
+  },
+  {
+    "question": "support",
+    "answer": "Please contact support@example.com for assistance."
+  },
+  {
+    "question": "how to activate product",
+    "answer": "Go to settings, enter your activation code, and click Activate."
+  },
+  {
+    "question": "what is refund policy",
+    "answer": "Refunds are processed within 7 working days to your original payment method."
+  },
+  {
+    "question": "how to contact support",
+    "answer": "You can email support@example.com or call +91-1234567890."
+  },
+  {
+    "question": "how to reset password",
+    "answer": "Click on 'Forgot Password' on the login page and follow the instructions."
+  },
+  {
+    "question": "do you offer free shipping",
+    "answer": "Yes, we offer free shipping on orders above \u20b9999."
+  },
+  {
+    "question": "how to cancel my order",
+    "answer": "Orders can be cancelled within 24 hours of purchase from your account page."
+  },
+  {
+    "question": "how to track my order",
+    "answer": "Track your order using the tracking ID sent to your email."
+  },
+  {
+    "question": "how long is warranty",
+    "answer": "Warranty lasts for 1 year from the purchase date."
+  },
+  {
+    "question": "what payment methods are accepted",
+    "answer": "We accept UPI, credit/debit cards, and wallets."
+  },
+  {
+    "question": "is there 24x7 support",
+    "answer": "Yes, we have 24x7 customer support via email and phone."
+  },
+  {
+    "question": "hi",
+    "answer": "Hello! How can I help you today?"
+  },
+  {
+    "question": "hello",
+    "answer": "Hi there! Need any assistance?"
+  },
+  {
+    "question": "thanks",
+    "answer": "You're welcome!"
+  },
+  {
+    "question": "bye",
+    "answer": "Goodbye! Have a nice day!"
+  },
+  {
+    "question": "good morning",
+    "answer": "Good morning! How can I assist you?"
+  },
+  {
+    "question": "good night",
+    "answer": "Good night! Take care."
+  },
+  {
+    "question": "help",
+    "answer": "Sure, I\u2019m here to help."
+  },
+  {
+    "question": "support",
+    "answer": "Please contact support@example.com for assistance."
+  },
+  {
+    "question": "how to activate product",
+    "answer": "Go to settings, enter your activation code, and click Activate."
+  },
+  {
+    "question": "what is refund policy",
+    "answer": "Refunds are processed within 7 working days to your original payment method."
+  },
+  {
+    "question": "how to contact support",
+    "answer": "You can email support@example.com or call +91-1234567890."
+  },
+  {
+    "question": "how to reset password",
+    "answer": "Click on 'Forgot Password' on the login page and follow the instructions."
+  },
+  {
+    "question": "do you offer free shipping",
+    "answer": "Yes, we offer free shipping on orders above \u20b9999."
+  },
+  {
+    "question": "how to cancel my order",
+    "answer": "Orders can be cancelled within 24 hours of purchase from your account page."
+  },
+  {
+    "question": "how to track my order",
+    "answer": "Track your order using the tracking ID sent to your email."
+  },
+  {
+    "question": "how long is warranty",
+    "answer": "Warranty lasts for 1 year from the purchase date."
+  },
+  {
+    "question": "what payment methods are accepted",
+    "answer": "We accept UPI, credit/debit cards, and wallets."
+  },
+  {
+    "question": "is there 24x7 support",
+    "answer": "Yes, we have 24x7 customer support via email and phone."
+  },
+  {
+    "question": "hi",
+    "answer": "Hello! How can I help you today?"
+  },
+  {
+    "question": "hello",
+    "answer": "Hi there! Need any assistance?"
+  },
+  {
+    "question": "thanks",
+    "answer": "You're welcome!"
+  },
+  {
+    "question": "bye",
+    "answer": "Goodbye! Have a nice day!"
+  },
+  {
+    "question": "good morning",
+    "answer": "Good morning! How can I assist you?"
+  },
+  {
+    "question": "good night",
+    "answer": "Good night! Take care."
+  },
+  {
+    "question": "help",
+    "answer": "Sure, I\u2019m here to help."
+  },
+  {
+    "question": "support",
+    "answer": "Please contact support@example.com for assistance."
+  },
+  {
+    "question": "how to activate product",
+    "answer": "Go to settings, enter your activation code, and click Activate."
+  },
+  {
+    "question": "what is refund policy",
+    "answer": "Refunds are processed within 7 working days to your original payment method."
+  },
+  {
+    "question": "how to contact support",
+    "answer": "You can email support@example.com or call +91-1234567890."
+  },
+  {
+    "question": "how to reset password",
+    "answer": "Click on 'Forgot Password' on the login page and follow the instructions."
+  },
+  {
+    "question": "do you offer free shipping",
+    "answer": "Yes, we offer free shipping on orders above \u20b9999."
+  },
+  {
+    "question": "how to cancel my order",
+    "answer": "Orders can be cancelled within 24 hours of purchase from your account page."
+  },
+  {
+    "question": "how to track my order",
+    "answer": "Track your order using the tracking ID sent to your email."
+  },
+  {
+    "question": "how long is warranty",
+    "answer": "Warranty lasts for 1 year from the purchase date."
+  },
+  {
+    "question": "what payment methods are accepted",
+    "answer": "We accept UPI, credit/debit cards, and wallets."
+  },
+  {
+    "question": "is there 24x7 support",
+    "answer": "Yes, we have 24x7 customer support via email and phone."
+  },
+  {
+    "question": "hi",
+    "answer": "Hello! How can I help you today?"
+  },
+  {
+    "question": "hello",
+    "answer": "Hi there! Need any assistance?"
+  },
+  {
+    "question": "thanks",
+    "answer": "You're welcome!"
+  },
+  {
+    "question": "bye",
+    "answer": "Goodbye! Have a nice day!"
+  },
+  {
+    "question": "good morning",
+    "answer": "Good morning! How can I assist you?"
+  },
+  {
+    "question": "good night",
+    "answer": "Good night! Take care."
+  },
+  {
+    "question": "help",
+    "answer": "Sure, I\u2019m here to help."
+  },
+  {
+    "question": "support",
+    "answer": "Please contact support@example.com for assistance."
+  },
+  {
+    "question": "how to activate product",
+    "answer": "Go to settings, enter your activation code, and click Activate."
+  },
+  {
+    "question": "what is refund policy",
+    "answer": "Refunds are processed within 7 working days to your original payment method."
+  },
+  {
+    "question": "how to contact support",
+    "answer": "You can email support@example.com or call +91-1234567890."
+  },
+  {
+    "question": "how to reset password",
+    "answer": "Click on 'Forgot Password' on the login page and follow the instructions."
+  },
+  {
+    "question": "do you offer free shipping",
+    "answer": "Yes, we offer free shipping on orders above \u20b9999."
+  },
+  {
+    "question": "how to cancel my order",
+    "answer": "Orders can be cancelled within 24 hours of purchase from your account page."
+  },
+  {
+    "question": "how to track my order",
+    "answer": "Track your order using the tracking ID sent to your email."
+  },
+  {
+    "question": "how long is warranty",
+    "answer": "Warranty lasts for 1 year from the purchase date."
+  },
+  {
+    "question": "what payment methods are accepted",
+    "answer": "We accept UPI, credit/debit cards, and wallets."
+  },
+  {
+    "question": "is there 24x7 support",
+    "answer": "Yes, we have 24x7 customer support via email and phone."
+  },
+  {
+    "question": "hi",
+    "answer": "Hello! How can I help you today?"
+  },
+  {
+    "question": "hello",
+    "answer": "Hi there! Need any assistance?"
+  },
+  {
+    "question": "thanks",
+    "answer": "You're welcome!"
+  },
+  {
+    "question": "bye",
+    "answer": "Goodbye! Have a nice day!"
+  },
+  {
+    "question": "good morning",
+    "answer": "Good morning! How can I assist you?"
+  },
+  {
+    "question": "good night",
+    "answer": "Good night! Take care."
+  },
+  {
+    "question": "help",
+    "answer": "Sure, I\u2019m here to help."
+  },
+  {
+    "question": "support",
+    "answer": "Please contact support@example.com for assistance."
+  },
+  {
+    "question": "how to activate product",
+    "answer": "Go to settings, enter your activation code, and click Activate."
+  },
+  {
+    "question": "what is refund policy",
+    "answer": "Refunds are processed within 7 working days to your original payment method."
+  },
+  {
+    "question": "how to contact support",
+    "answer": "You can email support@example.com or call +91-1234567890."
+  },
+  {
+    "question": "how to reset password",
+    "answer": "Click on 'Forgot Password' on the login page and follow the instructions."
+  },
+  {
+    "question": "do you offer free shipping",
+    "answer": "Yes, we offer free shipping on orders above \u20b9999."
+  },
+  {
+    "question": "how to cancel my order",
+    "answer": "Orders can be cancelled within 24 hours of purchase from your account page."
+  },
+  {
+    "question": "how to track my order",
+    "answer": "Track your order using the tracking ID sent to your email."
+  },
+  {
+    "question": "how long is warranty",
+    "answer": "Warranty lasts for 1 year from the purchase date."
+  },
+  {
+    "question": "what payment methods are accepted",
+    "answer": "We accept UPI, credit/debit cards, and wallets."
+  },
+  {
+    "question": "is there 24x7 support",
+    "answer": "Yes, we have 24x7 customer support via email and phone."
+  },
+  {
+    "question": "hi",
+    "answer": "Hello! How can I help you today?"
+  },
+  {
+    "question": "hello",
+    "answer": "Hi there! Need any assistance?"
+  },
+  {
+    "question": "thanks",
+    "answer": "You're welcome!"
+  },
+  {
+    "question": "bye",
+    "answer": "Goodbye! Have a nice day!"
+  },
+  {
+    "question": "good morning",
+    "answer": "Good morning! How can I assist you?"
+  },
+  {
+    "question": "good night",
+    "answer": "Good night! Take care."
+  },
+  {
+    "question": "help",
+    "answer": "Sure, I\u2019m here to help."
+  },
+  {
+    "question": "support",
+    "answer": "Please contact support@example.com for assistance."
+  },
+  {
+    "question": "how to activate product",
+    "answer": "Go to settings, enter your activation code, and click Activate."
+  },
+  {
+    "question": "what is refund policy",
+    "answer": "Refunds are processed within 7 working days to your original payment method."
+  },
+  {
+    "question": "how to contact support",
+    "answer": "You can email support@example.com or call +91-1234567890."
+  },
+  {
+    "question": "how to reset password",
+    "answer": "Click on 'Forgot Password' on the login page and follow the instructions."
+  },
+  {
+    "question": "do you offer free shipping",
+    "answer": "Yes, we offer free shipping on orders above \u20b9999."
+  },
+  {
+    "question": "how to cancel my order",
+    "answer": "Orders can be cancelled within 24 hours of purchase from your account page."
+  },
+  {
+    "question": "how to track my order",
+    "answer": "Track your order using the tracking ID sent to your email."
+  },
+  {
+    "question": "how long is warranty",
+    "answer": "Warranty lasts for 1 year from the purchase date."
+  },
+  {
+    "question": "what payment methods are accepted",
+    "answer": "We accept UPI, credit/debit cards, and wallets."
+  },
+  {
+    "question": "is there 24x7 support",
+    "answer": "Yes, we have 24x7 customer support via email and phone."
+  },
+  {
+    "question": "hi",
+    "answer": "Hello! How can I help you today?"
+  },
+  {
+    "question": "hello",
+    "answer": "Hi there! Need any assistance?"
+  },
+  {
+    "question": "thanks",
+    "answer": "You're welcome!"
+  },
+  {
+    "question": "bye",
+    "answer": "Goodbye! Have a nice day!"
+  },
+  {
+    "question": "good morning",
+    "answer": "Good morning! How can I assist you?"
+  },
+  {
+    "question": "good night",
+    "answer": "Good night! Take care."
+  },
+  {
+    "question": "help",
+    "answer": "Sure, I\u2019m here to help."
+  },
+  {
+    "question": "support",
+    "answer": "Please contact support@example.com for assistance."
+  },
+  {
+    "question": "how to activate product",
+    "answer": "Go to settings, enter your activation code, and click Activate."
+  },
+  {
+    "question": "what is refund policy",
+    "answer": "Refunds are processed within 7 working days to your original payment method."
+  },
+  {
+    "question": "how to contact support",
+    "answer": "You can email support@example.com or call +91-1234567890."
+  },
+  {
+    "question": "how to reset password",
+    "answer": "Click on 'Forgot Password' on the login page and follow the instructions."
+  },
+  {
+    "question": "do you offer free shipping",
+    "answer": "Yes, we offer free shipping on orders above \u20b9999."
+  },
+  {
+    "question": "how to cancel my order",
+    "answer": "Orders can be cancelled within 24 hours of purchase from your account page."
+  },
+  {
+    "question": "how to track my order",
+    "answer": "Track your order using the tracking ID sent to your email."
+  },
+  {
+    "question": "how long is warranty",
+    "answer": "Warranty lasts for 1 year from the purchase date."
+  },
+  {
+    "question": "what payment methods are accepted",
+    "answer": "We accept UPI, credit/debit cards, and wallets."
+  },
+  {
+    "question": "is there 24x7 support",
+    "answer": "Yes, we have 24x7 customer support via email and phone."
+  },
+  {
+    "question": "hi",
+    "answer": "Hello! How can I help you today?"
+  },
+  {
+    "question": "hello",
+    "answer": "Hi there! Need any assistance?"
+  },
+  {
+    "question": "thanks",
+    "answer": "You're welcome!"
+  },
+  {
+    "question": "bye",
+    "answer": "Goodbye! Have a nice day!"
+  },
+  {
+    "question": "good morning",
+    "answer": "Good morning! How can I assist you?"
+  },
+  {
+    "question": "good night",
+    "answer": "Good night! Take care."
+  },
+  {
+    "question": "help",
+    "answer": "Sure, I\u2019m here to help."
+  },
+  {
+    "question": "support",
+    "answer": "Please contact support@example.com for assistance."
+  },
+  {
+    "question": "how to activate product",
+    "answer": "Go to settings, enter your activation code, and click Activate."
+  },
+  {
+    "question": "what is refund policy",
+    "answer": "Refunds are processed within 7 working days to your original payment method."
+  },
+  {
+    "question": "how to contact support",
+    "answer": "You can email support@example.com or call +91-1234567890."
+  },
+  {
+    "question": "how to reset password",
+    "answer": "Click on 'Forgot Password' on the login page and follow the instructions."
+  },
+  {
+    "question": "do you offer free shipping",
+    "answer": "Yes, we offer free shipping on orders above \u20b9999."
+  },
+  {
+    "question": "how to cancel my order",
+    "answer": "Orders can be cancelled within 24 hours of purchase from your account page."
+  },
+  {
+    "question": "how to track my order",
+    "answer": "Track your order using the tracking ID sent to your email."
+  },
+  {
+    "question": "how long is warranty",
+    "answer": "Warranty lasts for 1 year from the purchase date."
+  },
+  {
+    "question": "what payment methods are accepted",
+    "answer": "We accept UPI, credit/debit cards, and wallets."
+  },
+  {
+    "question": "is there 24x7 support",
+    "answer": "Yes, we have 24x7 customer support via email and phone."
+  },
+  {
+    "question": "hi",
+    "answer": "Hello! How can I help you today?"
+  },
+  {
+    "question": "hello",
+    "answer": "Hi there! Need any assistance?"
+  },
+  {
+    "question": "thanks",
+    "answer": "You're welcome!"
+  },
+  {
+    "question": "bye",
+    "answer": "Goodbye! Have a nice day!"
+  },
+  {
+    "question": "good morning",
+    "answer": "Good morning! How can I assist you?"
+  },
+  {
+    "question": "good night",
+    "answer": "Good night! Take care."
+  },
+  {
+    "question": "help",
+    "answer": "Sure, I\u2019m here to help."
+  },
+  {
+    "question": "support",
+    "answer": "Please contact support@example.com for assistance."
+  },
+  {
+    "question": "how to activate product",
+    "answer": "Go to settings, enter your activation code, and click Activate."
+  },
+  {
+    "question": "what is refund policy",
+    "answer": "Refunds are processed within 7 working days to your original payment method."
+  },
+  {
+    "question": "how to contact support",
+    "answer": "You can email support@example.com or call +91-1234567890."
+  },
+  {
+    "question": "how to reset password",
+    "answer": "Click on 'Forgot Password' on the login page and follow the instructions."
+  },
+  {
+    "question": "do you offer free shipping",
+    "answer": "Yes, we offer free shipping on orders above \u20b9999."
+  },
+  {
+    "question": "how to cancel my order",
+    "answer": "Orders can be cancelled within 24 hours of purchase from your account page."
+  },
+  {
+    "question": "how to track my order",
+    "answer": "Track your order using the tracking ID sent to your email."
+  },
+  {
+    "question": "how long is warranty",
+    "answer": "Warranty lasts for 1 year from the purchase date."
+  },
+  {
+    "question": "what payment methods are accepted",
+    "answer": "We accept UPI, credit/debit cards, and wallets."
+  },
+  {
+    "question": "is there 24x7 support",
+    "answer": "Yes, we have 24x7 customer support via email and phone."
+  },
+  {
+    "question": "hi",
+    "answer": "Hello! How can I help you today?"
+  },
+  {
+    "question": "hello",
+    "answer": "Hi there! Need any assistance?"
+  },
+  {
+    "question": "thanks",
+    "answer": "You're welcome!"
+  },
+  {
+    "question": "bye",
+    "answer": "Goodbye! Have a nice day!"
+  },
+  {
+    "question": "good morning",
+    "answer": "Good morning! How can I assist you?"
+  },
+  {
+    "question": "good night",
+    "answer": "Good night! Take care."
+  },
+  {
+    "question": "help",
+    "answer": "Sure, I\u2019m here to help."
+  },
+  {
+    "question": "support",
+    "answer": "Please contact support@example.com for assistance."
+  },
+  {
+    "question": "how to activate product",
+    "answer": "Go to settings, enter your activation code, and click Activate."
+  },
+  {
+    "question": "what is refund policy",
+    "answer": "Refunds are processed within 7 working days to your original payment method."
+  },
+  {
+    "question": "how to contact support",
+    "answer": "You can email support@example.com or call +91-1234567890."
+  },
+  {
+    "question": "how to reset password",
+    "answer": "Click on 'Forgot Password' on the login page and follow the instructions."
+  },
+  {
+    "question": "do you offer free shipping",
+    "answer": "Yes, we offer free shipping on orders above \u20b9999."
+  },
+  {
+    "question": "how to cancel my order",
+    "answer": "Orders can be cancelled within 24 hours of purchase from your account page."
+  },
+  {
+    "question": "how to track my order",
+    "answer": "Track your order using the tracking ID sent to your email."
+  },
+  {
+    "question": "how long is warranty",
+    "answer": "Warranty lasts for 1 year from the purchase date."
+  },
+  {
+    "question": "what payment methods are accepted",
+    "answer": "We accept UPI, credit/debit cards, and wallets."
+  },
+  {
+    "question": "is there 24x7 support",
+    "answer": "Yes, we have 24x7 customer support via email and phone."
+  },
+  {
+    "question": "hi",
+    "answer": "Hello! How can I help you today?"
+  },
+  {
+    "question": "hello",
+    "answer": "Hi there! Need any assistance?"
+  },
+  {
+    "question": "thanks",
+    "answer": "You're welcome!"
+  },
+  {
+    "question": "bye",
+    "answer": "Goodbye! Have a nice day!"
+  },
+  {
+    "question": "good morning",
+    "answer": "Good morning! How can I assist you?"
+  },
+  {
+    "question": "good night",
+    "answer": "Good night! Take care."
+  },
+  {
+    "question": "help",
+    "answer": "Sure, I\u2019m here to help."
+  },
+  {
+    "question": "support",
+    "answer": "Please contact support@example.com for assistance."
+  },
+  {
+    "question": "how to activate product",
+    "answer": "Go to settings, enter your activation code, and click Activate."
+  },
+  {
+    "question": "what is refund policy",
+    "answer": "Refunds are processed within 7 working days to your original payment method."
+  },
+  {
+    "question": "how to contact support",
+    "answer": "You can email support@example.com or call +91-1234567890."
+  },
+  {
+    "question": "how to reset password",
+    "answer": "Click on 'Forgot Password' on the login page and follow the instructions."
+  },
+  {
+    "question": "do you offer free shipping",
+    "answer": "Yes, we offer free shipping on orders above \u20b9999."
+  },
+  {
+    "question": "how to cancel my order",
+    "answer": "Orders can be cancelled within 24 hours of purchase from your account page."
+  },
+  {
+    "question": "how to track my order",
+    "answer": "Track your order using the tracking ID sent to your email."
+  },
+  {
+    "question": "how long is warranty",
+    "answer": "Warranty lasts for 1 year from the purchase date."
+  },
+  {
+    "question": "what payment methods are accepted",
+    "answer": "We accept UPI, credit/debit cards, and wallets."
+  },
+  {
+    "question": "is there 24x7 support",
+    "answer": "Yes, we have 24x7 customer support via email and phone."
+  },
+  {
+    "question": "hi",
+    "answer": "Hello! How can I help you today?"
+  },
+  {
+    "question": "hello",
+    "answer": "Hi there! Need any assistance?"
+  },
+  {
+    "question": "thanks",
+    "answer": "You're welcome!"
+  },
+  {
+    "question": "bye",
+    "answer": "Goodbye! Have a nice day!"
+  },
+  {
+    "question": "good morning",
+    "answer": "Good morning! How can I assist you?"
+  },
+  {
+    "question": "good night",
+    "answer": "Good night! Take care."
+  },
+  {
+    "question": "help",
+    "answer": "Sure, I\u2019m here to help."
+  },
+  {
+    "question": "support",
+    "answer": "Please contact support@example.com for assistance."
+  },
+  {
+    "question": "how to activate product",
+    "answer": "Go to settings, enter your activation code, and click Activate."
+  },
+  {
+    "question": "what is refund policy",
+    "answer": "Refunds are processed within 7 working days to your original payment method."
+  },
+  {
+    "question": "how to contact support",
+    "answer": "You can email support@example.com or call +91-1234567890."
+  },
+  {
+    "question": "how to reset password",
+    "answer": "Click on 'Forgot Password' on the login page and follow the instructions."
+  },
+  {
+    "question": "do you offer free shipping",
+    "answer": "Yes, we offer free shipping on orders above \u20b9999."
+  },
+  {
+    "question": "how to cancel my order",
+    "answer": "Orders can be cancelled within 24 hours of purchase from your account page."
+  },
+  {
+    "question": "how to track my order",
+    "answer": "Track your order using the tracking ID sent to your email."
+  },
+  {
+    "question": "how long is warranty",
+    "answer": "Warranty lasts for 1 year from the purchase date."
+  },
+  {
+    "question": "what payment methods are accepted",
+    "answer": "We accept UPI, credit/debit cards, and wallets."
+  },
+  {
+    "question": "is there 24x7 support",
+    "answer": "Yes, we have 24x7 customer support via email and phone."
+  },
+  {
+    "question": "hi",
+    "answer": "Hello! How can I help you today?"
+  },
+  {
+    "question": "hello",
+    "answer": "Hi there! Need any assistance?"
+  },
+  {
+    "question": "thanks",
+    "answer": "You're welcome!"
+  },
+  {
+    "question": "bye",
+    "answer": "Goodbye! Have a nice day!"
+  },
+  {
+    "question": "good morning",
+    "answer": "Good morning! How can I assist you?"
+  },
+  {
+    "question": "good night",
+    "answer": "Good night! Take care."
+  },
+  {
+    "question": "help",
+    "answer": "Sure, I\u2019m here to help."
+  },
+  {
+    "question": "support",
+    "answer": "Please contact support@example.com for assistance."
+  },
+  {
+    "question": "how to activate product",
+    "answer": "Go to settings, enter your activation code, and click Activate."
+  },
+  {
+    "question": "what is refund policy",
+    "answer": "Refunds are processed within 7 working days to your original payment method."
+  },
+  {
+    "question": "how to contact support",
+    "answer": "You can email support@example.com or call +91-1234567890."
+  },
+  {
+    "question": "how to reset password",
+    "answer": "Click on 'Forgot Password' on the login page and follow the instructions."
+  },
+  {
+    "question": "do you offer free shipping",
+    "answer": "Yes, we offer free shipping on orders above \u20b9999."
+  },
+  {
+    "question": "how to cancel my order",
+    "answer": "Orders can be cancelled within 24 hours of purchase from your account page."
+  },
+  {
+    "question": "how to track my order",
+    "answer": "Track your order using the tracking ID sent to your email."
+  },
+  {
+    "question": "how long is warranty",
+    "answer": "Warranty lasts for 1 year from the purchase date."
+  },
+  {
+    "question": "what payment methods are accepted",
+    "answer": "We accept UPI, credit/debit cards, and wallets."
+  },
+  {
+    "question": "is there 24x7 support",
+    "answer": "Yes, we have 24x7 customer support via email and phone."
+  },
+  {
+    "question": "hi",
+    "answer": "Hello! How can I help you today?"
+  },
+  {
+    "question": "hello",
+    "answer": "Hi there! Need any assistance?"
+  },
+  {
+    "question": "thanks",
+    "answer": "You're welcome!"
+  },
+  {
+    "question": "bye",
+    "answer": "Goodbye! Have a nice day!"
+  },
+  {
+    "question": "good morning",
+    "answer": "Good morning! How can I assist you?"
+  },
+  {
+    "question": "good night",
+    "answer": "Good night! Take care."
+  },
+  {
+    "question": "help",
+    "answer": "Sure, I\u2019m here to help."
+  },
+  {
+    "question": "support",
+    "answer": "Please contact support@example.com for assistance."
+  },
+  {
+    "question": "how to activate product",
+    "answer": "Go to settings, enter your activation code, and click Activate."
+  },
+  {
+    "question": "what is refund policy",
+    "answer": "Refunds are processed within 7 working days to your original payment method."
+  },
+  {
+    "question": "how to contact support",
+    "answer": "You can email support@example.com or call +91-1234567890."
+  },
+  {
+    "question": "how to reset password",
+    "answer": "Click on 'Forgot Password' on the login page and follow the instructions."
+  },
+  {
+    "question": "do you offer free shipping",
+    "answer": "Yes, we offer free shipping on orders above \u20b9999."
+  },
+  {
+    "question": "how to cancel my order",
+    "answer": "Orders can be cancelled within 24 hours of purchase from your account page."
+  },
+  {
+    "question": "how to track my order",
+    "answer": "Track your order using the tracking ID sent to your email."
+  },
+  {
+    "question": "how long is warranty",
+    "answer": "Warranty lasts for 1 year from the purchase date."
+  },
+  {
+    "question": "what payment methods are accepted",
+    "answer": "We accept UPI, credit/debit cards, and wallets."
+  },
+  {
+    "question": "is there 24x7 support",
+    "answer": "Yes, we have 24x7 customer support via email and phone."
+  },
+  {
+    "question": "hi",
+    "answer": "Hello! How can I help you today?"
+  },
+  {
+    "question": "hello",
+    "answer": "Hi there! Need any assistance?"
+  },
+  {
+    "question": "thanks",
+    "answer": "You're welcome!"
+  },
+  {
+    "question": "bye",
+    "answer": "Goodbye! Have a nice day!"
+  },
+  {
+    "question": "good morning",
+    "answer": "Good morning! How can I assist you?"
+  },
+  {
+    "question": "good night",
+    "answer": "Good night! Take care."
+  },
+  {
+    "question": "help",
+    "answer": "Sure, I\u2019m here to help."
+  },
+  {
+    "question": "support",
+    "answer": "Please contact support@example.com for assistance."
+  },
+  {
+    "question": "how to activate product",
+    "answer": "Go to settings, enter your activation code, and click Activate."
+  },
+  {
+    "question": "what is refund policy",
+    "answer": "Refunds are processed within 7 working days to your original payment method."
+  },
+  {
+    "question": "how to contact support",
+    "answer": "You can email support@example.com or call +91-1234567890."
+  },
+  {
+    "question": "how to reset password",
+    "answer": "Click on 'Forgot Password' on the login page and follow the instructions."
+  },
+  {
+    "question": "do you offer free shipping",
+    "answer": "Yes, we offer free shipping on orders above \u20b9999."
+  },
+  {
+    "question": "how to cancel my order",
+    "answer": "Orders can be cancelled within 24 hours of purchase from your account page."
+  },
+  {
+    "question": "how to track my order",
+    "answer": "Track your order using the tracking ID sent to your email."
+  },
+  {
+    "question": "how long is warranty",
+    "answer": "Warranty lasts for 1 year from the purchase date."
+  },
+  {
+    "question": "what payment methods are accepted",
+    "answer": "We accept UPI, credit/debit cards, and wallets."
+  },
+  {
+    "question": "is there 24x7 support",
+    "answer": "Yes, we have 24x7 customer support via email and phone."
+  },
+  {
+    "question": "hi",
+    "answer": "Hello! How can I help you today?"
+  },
+  {
+    "question": "hello",
+    "answer": "Hi there! Need any assistance?"
+  },
+  {
+    "question": "thanks",
+    "answer": "You're welcome!"
+  },
+  {
+    "question": "bye",
+    "answer": "Goodbye! Have a nice day!"
+  },
+  {
+    "question": "good morning",
+    "answer": "Good morning! How can I assist you?"
+  },
+  {
+    "question": "good night",
+    "answer": "Good night! Take care."
+  },
+  {
+    "question": "help",
+    "answer": "Sure, I\u2019m here to help."
+  },
+  {
+    "question": "support",
+    "answer": "Please contact support@example.com for assistance."
+  },
+  {
+    "question": "how to activate product",
+    "answer": "Go to settings, enter your activation code, and click Activate."
+  },
+  {
+    "question": "what is refund policy",
+    "answer": "Refunds are processed within 7 working days to your original payment method."
+  },
+  {
+    "question": "how to contact support",
+    "answer": "You can email support@example.com or call +91-1234567890."
+  },
+  {
+    "question": "how to reset password",
+    "answer": "Click on 'Forgot Password' on the login page and follow the instructions."
+  },
+  {
+    "question": "do you offer free shipping",
+    "answer": "Yes, we offer free shipping on orders above \u20b9999."
+  },
+  {
+    "question": "how to cancel my order",
+    "answer": "Orders can be cancelled within 24 hours of purchase from your account page."
+  },
+  {
+    "question": "how to track my order",
+    "answer": "Track your order using the tracking ID sent to your email."
+  },
+  {
+    "question": "how long is warranty",
+    "answer": "Warranty lasts for 1 year from the purchase date."
+  },
+  {
+    "question": "what payment methods are accepted",
+    "answer": "We accept UPI, credit/debit cards, and wallets."
+  },
+  {
+    "question": "is there 24x7 support",
+    "answer": "Yes, we have 24x7 customer support via email and phone."
+  },
+  {
+    "question": "hi",
+    "answer": "Hello! How can I help you today?"
+  },
+  {
+    "question": "hello",
+    "answer": "Hi there! Need any assistance?"
+  },
+  {
+    "question": "thanks",
+    "answer": "You're welcome!"
+  },
+  {
+    "question": "bye",
+    "answer": "Goodbye! Have a nice day!"
+  },
+  {
+    "question": "good morning",
+    "answer": "Good morning! How can I assist you?"
+  },
+  {
+    "question": "good night",
+    "answer": "Good night! Take care."
+  },
+  {
+    "question": "help",
+    "answer": "Sure, I\u2019m here to help."
+  },
+  {
+    "question": "support",
+    "answer": "Please contact support@example.com for assistance."
+  },
+  {
+    "question": "how to activate product",
+    "answer": "Go to settings, enter your activation code, and click Activate."
+  },
+  {
+    "question": "what is refund policy",
+    "answer": "Refunds are processed within 7 working days to your original payment method."
+  },
+  {
+    "question": "how to contact support",
+    "answer": "You can email support@example.com or call +91-1234567890."
+  },
+  {
+    "question": "how to reset password",
+    "answer": "Click on 'Forgot Password' on the login page and follow the instructions."
+  },
+  {
+    "question": "do you offer free shipping",
+    "answer": "Yes, we offer free shipping on orders above \u20b9999."
+  },
+  {
+    "question": "how to cancel my order",
+    "answer": "Orders can be cancelled within 24 hours of purchase from your account page."
+  },
+  {
+    "question": "how to track my order",
+    "answer": "Track your order using the tracking ID sent to your email."
+  },
+  {
+    "question": "how long is warranty",
+    "answer": "Warranty lasts for 1 year from the purchase date."
+  },
+  {
+    "question": "what payment methods are accepted",
+    "answer": "We accept UPI, credit/debit cards, and wallets."
+  },
+  {
+    "question": "is there 24x7 support",
+    "answer": "Yes, we have 24x7 customer support via email and phone."
+  },
+  {
+    "question": "hi",
+    "answer": "Hello! How can I help you today?"
+  },
+  {
+    "question": "hello",
+    "answer": "Hi there! Need any assistance?"
+  },
+  {
+    "question": "thanks",
+    "answer": "You're welcome!"
+  },
+  {
+    "question": "bye",
+    "answer": "Goodbye! Have a nice day!"
+  },
+  {
+    "question": "good morning",
+    "answer": "Good morning! How can I assist you?"
+  },
+  {
+    "question": "good night",
+    "answer": "Good night! Take care."
+  },
+  {
+    "question": "help",
+    "answer": "Sure, I\u2019m here to help."
+  },
+  {
+    "question": "support",
+    "answer": "Please contact support@example.com for assistance."
+  },
+  {
+    "question": "how to activate product",
+    "answer": "Go to settings, enter your activation code, and click Activate."
+  },
+  {
+    "question": "what is refund policy",
+    "answer": "Refunds are processed within 7 working days to your original payment method."
+  },
+  {
+    "question": "how to contact support",
+    "answer": "You can email support@example.com or call +91-1234567890."
+  },
+  {
+    "question": "how to reset password",
+    "answer": "Click on 'Forgot Password' on the login page and follow the instructions."
+  },
+  {
+    "question": "do you offer free shipping",
+    "answer": "Yes, we offer free shipping on orders above \u20b9999."
+  },
+  {
+    "question": "how to cancel my order",
+    "answer": "Orders can be cancelled within 24 hours of purchase from your account page."
+  },
+  {
+    "question": "how to track my order",
+    "answer": "Track your order using the tracking ID sent to your email."
+  },
+  {
+    "question": "how long is warranty",
+    "answer": "Warranty lasts for 1 year from the purchase date."
+  },
+  {
+    "question": "what payment methods are accepted",
+    "answer": "We accept UPI, credit/debit cards, and wallets."
+  },
+  {
+    "question": "is there 24x7 support",
+    "answer": "Yes, we have 24x7 customer support via email and phone."
+  },
+  {
+    "question": "hi",
+    "answer": "Hello! How can I help you today?"
+  },
+  {
+    "question": "hello",
+    "answer": "Hi there! Need any assistance?"
+  },
+  {
+    "question": "thanks",
+    "answer": "You're welcome!"
+  },
+  {
+    "question": "bye",
+    "answer": "Goodbye! Have a nice day!"
+  },
+  {
+    "question": "good morning",
+    "answer": "Good morning! How can I assist you?"
+  },
+  {
+    "question": "good night",
+    "answer": "Good night! Take care."
+  },
+  {
+    "question": "help",
+    "answer": "Sure, I\u2019m here to help."
+  },
+  {
+    "question": "support",
+    "answer": "Please contact support@example.com for assistance."
+  },
+  {
+    "question": "how to activate product",
+    "answer": "Go to settings, enter your activation code, and click Activate."
+  },
+  {
+    "question": "what is refund policy",
+    "answer": "Refunds are processed within 7 working days to your original payment method."
+  },
+  {
+    "question": "how to contact support",
+    "answer": "You can email support@example.com or call +91-1234567890."
+  },
+  {
+    "question": "how to reset password",
+    "answer": "Click on 'Forgot Password' on the login page and follow the instructions."
+  },
+  {
+    "question": "do you offer free shipping",
+    "answer": "Yes, we offer free shipping on orders above \u20b9999."
+  },
+  {
+    "question": "how to cancel my order",
+    "answer": "Orders can be cancelled within 24 hours of purchase from your account page."
+  },
+  {
+    "question": "how to track my order",
+    "answer": "Track your order using the tracking ID sent to your email."
+  },
+  {
+    "question": "how long is warranty",
+    "answer": "Warranty lasts for 1 year from the purchase date."
+  },
+  {
+    "question": "what payment methods are accepted",
+    "answer": "We accept UPI, credit/debit cards, and wallets."
+  },
+  {
+    "question": "is there 24x7 support",
+    "answer": "Yes, we have 24x7 customer support via email and phone."
+  },
+  {
+    "question": "hi",
+    "answer": "Hello! How can I help you today?"
+  },
+  {
+    "question": "hello",
+    "answer": "Hi there! Need any assistance?"
+  },
+  {
+    "question": "thanks",
+    "answer": "You're welcome!"
+  },
+  {
+    "question": "bye",
+    "answer": "Goodbye! Have a nice day!"
+  },
+  {
+    "question": "good morning",
+    "answer": "Good morning! How can I assist you?"
+  },
+  {
+    "question": "good night",
+    "answer": "Good night! Take care."
+  },
+  {
+    "question": "help",
+    "answer": "Sure, I\u2019m here to help."
+  },
+  {
+    "question": "support",
+    "answer": "Please contact support@example.com for assistance."
+  },
+  {
+    "question": "how to activate product",
+    "answer": "Go to settings, enter your activation code, and click Activate."
+  },
+  {
+    "question": "what is refund policy",
+    "answer": "Refunds are processed within 7 working days to your original payment method."
+  },
+  {
+    "question": "how to contact support",
+    "answer": "You can email support@example.com or call +91-1234567890."
+  },
+  {
+    "question": "how to reset password",
+    "answer": "Click on 'Forgot Password' on the login page and follow the instructions."
+  },
+  {
+    "question": "do you offer free shipping",
+    "answer": "Yes, we offer free shipping on orders above \u20b9999."
+  },
+  {
+    "question": "how to cancel my order",
+    "answer": "Orders can be cancelled within 24 hours of purchase from your account page."
+  },
+  {
+    "question": "how to track my order",
+    "answer": "Track your order using the tracking ID sent to your email."
+  },
+  {
+    "question": "how long is warranty",
+    "answer": "Warranty lasts for 1 year from the purchase date."
+  },
+  {
+    "question": "what payment methods are accepted",
+    "answer": "We accept UPI, credit/debit cards, and wallets."
+  },
+  {
+    "question": "is there 24x7 support",
+    "answer": "Yes, we have 24x7 customer support via email and phone."
+  },
+  {
+    "question": "hi",
+    "answer": "Hello! How can I help you today?"
+  },
+  {
+    "question": "hello",
+    "answer": "Hi there! Need any assistance?"
+  },
+  {
+    "question": "thanks",
+    "answer": "You're welcome!"
+  },
+  {
+    "question": "bye",
+    "answer": "Goodbye! Have a nice day!"
+  },
+  {
+    "question": "good morning",
+    "answer": "Good morning! How can I assist you?"
+  },
+  {
+    "question": "good night",
+    "answer": "Good night! Take care."
+  },
+  {
+    "question": "help",
+    "answer": "Sure, I\u2019m here to help."
+  },
+  {
+    "question": "support",
+    "answer": "Please contact support@example.com for assistance."
+  },
+  {
+    "question": "how to activate product",
+    "answer": "Go to settings, enter your activation code, and click Activate."
+  },
+  {
+    "question": "what is refund policy",
+    "answer": "Refunds are processed within 7 working days to your original payment method."
+  },
+  {
+    "question": "how to contact support",
+    "answer": "You can email support@example.com or call +91-1234567890."
+  },
+  {
+    "question": "how to reset password",
+    "answer": "Click on 'Forgot Password' on the login page and follow the instructions."
+  },
+  {
+    "question": "do you offer free shipping",
+    "answer": "Yes, we offer free shipping on orders above \u20b9999."
+  },
+  {
+    "question": "how to cancel my order",
+    "answer": "Orders can be cancelled within 24 hours of purchase from your account page."
+  },
+  {
+    "question": "how to track my order",
+    "answer": "Track your order using the tracking ID sent to your email."
+  },
+  {
+    "question": "how long is warranty",
+    "answer": "Warranty lasts for 1 year from the purchase date."
+  },
+  {
+    "question": "what payment methods are accepted",
+    "answer": "We accept UPI, credit/debit cards, and wallets."
+  },
+  {
+    "question": "is there 24x7 support",
+    "answer": "Yes, we have 24x7 customer support via email and phone."
+  },
+  {
+    "question": "hi",
+    "answer": "Hello! How can I help you today?"
+  },
+  {
+    "question": "hello",
+    "answer": "Hi there! Need any assistance?"
+  },
+  {
+    "question": "thanks",
+    "answer": "You're welcome!"
+  },
+  {
+    "question": "bye",
+    "answer": "Goodbye! Have a nice day!"
+  },
+  {
+    "question": "good morning",
+    "answer": "Good morning! How can I assist you?"
+  },
+  {
+    "question": "good night",
+    "answer": "Good night! Take care."
+  },
+  {
+    "question": "help",
+    "answer": "Sure, I\u2019m here to help."
+  },
+  {
+    "question": "support",
+    "answer": "Please contact support@example.com for assistance."
+  },
+  {
+    "question": "how to activate product",
+    "answer": "Go to settings, enter your activation code, and click Activate."
+  },
+  {
+    "question": "what is refund policy",
+    "answer": "Refunds are processed within 7 working days to your original payment method."
+  },
+  {
+    "question": "how to contact support",
+    "answer": "You can email support@example.com or call +91-1234567890."
+  },
+  {
+    "question": "how to reset password",
+    "answer": "Click on 'Forgot Password' on the login page and follow the instructions."
+  },
+  {
+    "question": "do you offer free shipping",
+    "answer": "Yes, we offer free shipping on orders above \u20b9999."
+  },
+  {
+    "question": "how to cancel my order",
+    "answer": "Orders can be cancelled within 24 hours of purchase from your account page."
+  },
+  {
+    "question": "how to track my order",
+    "answer": "Track your order using the tracking ID sent to your email."
+  },
+  {
+    "question": "how long is warranty",
+    "answer": "Warranty lasts for 1 year from the purchase date."
+  },
+  {
+    "question": "what payment methods are accepted",
+    "answer": "We accept UPI, credit/debit cards, and wallets."
+  },
+  {
+    "question": "is there 24x7 support",
+    "answer": "Yes, we have 24x7 customer support via email and phone."
+  },
+  {
+    "question": "hi",
+    "answer": "Hello! How can I help you today?"
+  },
+  {
+    "question": "hello",
+    "answer": "Hi there! Need any assistance?"
+  },
+  {
+    "question": "thanks",
+    "answer": "You're welcome!"
+  },
+  {
+    "question": "bye",
+    "answer": "Goodbye! Have a nice day!"
+  },
+  {
+    "question": "good morning",
+    "answer": "Good morning! How can I assist you?"
+  },
+  {
+    "question": "good night",
+    "answer": "Good night! Take care."
+  },
+  {
+    "question": "help",
+    "answer": "Sure, I\u2019m here to help."
+  },
+  {
+    "question": "support",
+    "answer": "Please contact support@example.com for assistance."
+  },
+  {
+    "question": "how to activate product",
+    "answer": "Go to settings, enter your activation code, and click Activate."
+  },
+  {
+    "question": "what is refund policy",
+    "answer": "Refunds are processed within 7 working days to your original payment method."
+  },
+  {
+    "question": "how to contact support",
+    "answer": "You can email support@example.com or call +91-1234567890."
+  },
+  {
+    "question": "how to reset password",
+    "answer": "Click on 'Forgot Password' on the login page and follow the instructions."
+  },
+  {
+    "question": "do you offer free shipping",
+    "answer": "Yes, we offer free shipping on orders above \u20b9999."
+  },
+  {
+    "question": "how to cancel my order",
+    "answer": "Orders can be cancelled within 24 hours of purchase from your account page."
+  },
+  {
+    "question": "how to track my order",
+    "answer": "Track your order using the tracking ID sent to your email."
+  },
+  {
+    "question": "how long is warranty",
+    "answer": "Warranty lasts for 1 year from the purchase date."
+  },
+  {
+    "question": "what payment methods are accepted",
+    "answer": "We accept UPI, credit/debit cards, and wallets."
+  },
+  {
+    "question": "is there 24x7 support",
+    "answer": "Yes, we have 24x7 customer support via email and phone."
+  },
+  {
+    "question": "hi",
+    "answer": "Hello! How can I help you today?"
+  },
+  {
+    "question": "hello",
+    "answer": "Hi there! Need any assistance?"
+  },
+  {
+    "question": "thanks",
+    "answer": "You're welcome!"
+  },
+  {
+    "question": "bye",
+    "answer": "Goodbye! Have a nice day!"
+  },
+  {
+    "question": "good morning",
+    "answer": "Good morning! How can I assist you?"
+  },
+  {
+    "question": "good night",
+    "answer": "Good night! Take care."
+  },
+  {
+    "question": "help",
+    "answer": "Sure, I\u2019m here to help."
+  },
+  {
+    "question": "support",
+    "answer": "Please contact support@example.com for assistance."
+  },
+  {
+    "question": "how to activate product",
+    "answer": "Go to settings, enter your activation code, and click Activate."
+  },
+  {
+    "question": "what is refund policy",
+    "answer": "Refunds are processed within 7 working days to your original payment method."
+  },
+  {
+    "question": "how to contact support",
+    "answer": "You can email support@example.com or call +91-1234567890."
+  },
+  {
+    "question": "how to reset password",
+    "answer": "Click on 'Forgot Password' on the login page and follow the instructions."
+  },
+  {
+    "question": "do you offer free shipping",
+    "answer": "Yes, we offer free shipping on orders above \u20b9999."
+  },
+  {
+    "question": "how to cancel my order",
+    "answer": "Orders can be cancelled within 24 hours of purchase from your account page."
+  },
+  {
+    "question": "how to track my order",
+    "answer": "Track your order using the tracking ID sent to your email."
+  },
+  {
+    "question": "how long is warranty",
+    "answer": "Warranty lasts for 1 year from the purchase date."
+  },
+  {
+    "question": "what payment methods are accepted",
+    "answer": "We accept UPI, credit/debit cards, and wallets."
+  },
+  {
+    "question": "is there 24x7 support",
+    "answer": "Yes, we have 24x7 customer support via email and phone."
+  },
+  {
+    "question": "hi",
+    "answer": "Hello! How can I help you today?"
+  },
+  {
+    "question": "hello",
+    "answer": "Hi there! Need any assistance?"
+  },
+  {
+    "question": "thanks",
+    "answer": "You're welcome!"
+  },
+  {
+    "question": "bye",
+    "answer": "Goodbye! Have a nice day!"
+  },
+  {
+    "question": "good morning",
+    "answer": "Good morning! How can I assist you?"
+  },
+  {
+    "question": "good night",
+    "answer": "Good night! Take care."
+  },
+  {
+    "question": "help",
+    "answer": "Sure, I\u2019m here to help."
+  },
+  {
+    "question": "support",
+    "answer": "Please contact support@example.com for assistance."
+  },
+  {
+    "question": "how to activate product",
+    "answer": "Go to settings, enter your activation code, and click Activate."
+  },
+  {
+    "question": "what is refund policy",
+    "answer": "Refunds are processed within 7 working days to your original payment method."
+  },
+  {
+    "question": "how to contact support",
+    "answer": "You can email support@example.com or call +91-1234567890."
+  },
+  {
+    "question": "how to reset password",
+    "answer": "Click on 'Forgot Password' on the login page and follow the instructions."
+  },
+  {
+    "question": "do you offer free shipping",
+    "answer": "Yes, we offer free shipping on orders above \u20b9999."
+  },
+  {
+    "question": "how to cancel my order",
+    "answer": "Orders can be cancelled within 24 hours of purchase from your account page."
+  },
+  {
+    "question": "how to track my order",
+    "answer": "Track your order using the tracking ID sent to your email."
+  },
+  {
+    "question": "how long is warranty",
+    "answer": "Warranty lasts for 1 year from the purchase date."
+  },
+  {
+    "question": "what payment methods are accepted",
+    "answer": "We accept UPI, credit/debit cards, and wallets."
+  },
+  {
+    "question": "is there 24x7 support",
+    "answer": "Yes, we have 24x7 customer support via email and phone."
+  }
+]
